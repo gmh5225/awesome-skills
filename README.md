@@ -206,6 +206,7 @@ Detailed description of the skill's purpose.
 | [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) | Pairwise Independent Combinatorial Testing |
 | [claude-starter](https://github.com/raintree-technology/claude-starter) | Production-ready Claude Code configuration template |
 | [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare) | Cloudflare platform reference docs |
+| [solana-dev-skill](https://github.com/GuiBibeau/solana-dev-skill) | Solana blockchain development skill |
 | [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | Convert documentation websites into Skills |
 
 ### Data & Analysis
