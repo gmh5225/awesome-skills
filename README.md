@@ -388,6 +388,12 @@ Detailed description of the skill's purpose.
 - [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - `npx skills` CLI tool for quick installation
 
 
+## Content Humanization
+
+- [humanizer](https://github.com/blader/humanizer) - Remove AI writing signs from text
+- [Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer Chinese version
+
+
 ## GitHub Copilot Instructions & Prompts
 
 ### Language & Stack Instructions
