@@ -190,6 +190,8 @@ Detailed description of the skill's purpose.
 |-------|-------------|
 | [Markdown to EPUB](https://github.com/smerchek/claude-epub-skill) | Converts markdown documents into professional EPUB ebook files |
 | [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill/tree/main) | Generate polished presentations using Reveal.js HTML framework |
+| [epub-translator](https://github.com/Nebu1eto/skills/tree/main/epub-translator) | Translate EPUB ebooks between languages with parallel processing and quality validation |
+| [pdf-translator](https://github.com/Nebu1eto/skills/tree/main/pdf-translator) | Translate PDF documents with layout preservation, supports academic papers and Markdown/PDF output |
 
 ### Development & Code Tools
 
