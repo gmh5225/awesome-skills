@@ -182,6 +182,7 @@ Detailed description of the skill's purpose.
 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Practical Codex skills for automation workflows |
 | [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) | Awesome collection with official and community-built resources |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | **23 marketing skills**: CRO, copywriting, SEO, analytics, A/B testing, email sequences |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | Instructions, prompts, skills and custom agents for GitHub Copilot |
 
 ### Document Processing
@@ -293,6 +294,20 @@ Detailed description of the skill's purpose.
 | [launch-strategy](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/launch-strategy) | Product launches and go-to-market strategies |
 | [programmatic-seo](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/programmatic-seo) | SEO-driven pages at scale |
 | [marketing-ideas](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/marketing-ideas) | 140 proven SaaS marketing strategies |
+| [marketing-psychology](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-psychology) | 70+ mental models for marketing |
+| [ab-test-setup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-test-setup) | Plan and implement A/B tests |
+| [analytics-tracking](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics-tracking) | GA4, GTM, and event tracking setup |
+| [form-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/form-cro) | Lead capture and contact form optimization |
+| [signup-flow-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup-flow-cro) | Registration and signup flow optimization |
+| [onboarding-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding-cro) | Post-signup user activation |
+| [paywall-upgrade-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/paywall-upgrade-cro) | In-app paywalls and upgrade screens |
+| [popup-cro](https://github.com/coreyhaines31/marketingskills/tree/main/skills/popup-cro) | Popups, modals, and exit intent |
+| [referral-program](https://github.com/coreyhaines31/marketingskills/tree/main/skills/referral-program) | Referral and affiliate program design |
+| [schema-markup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/schema-markup) | JSON-LD structured data for rich snippets |
+| [social-content](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social-content) | Social media content and scheduling |
+| [copy-editing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing) | Seven-sweeps copy editing framework |
+| [competitor-alternatives](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-alternatives) | Competitor comparison and alternative pages |
+| [free-tool-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tool-strategy) | Engineering-as-marketing tools and calculators |
 
 ### AI Agents & LLM Development
 
