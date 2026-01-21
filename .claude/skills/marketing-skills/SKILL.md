@@ -61,6 +61,21 @@ Use this skill when:
 | referral-program | Word-of-mouth, affiliates |
 | marketing-ideas | 140 proven SaaS strategies |
 | marketing-psychology | 70+ mental models |
+| free-tool-strategy | Engineering-as-marketing tools |
+| competitor-alternatives | Competitor comparison pages |
+
+### Testing & Analytics
+
+| Skill | Purpose |
+|-------|---------|
+| ab-test-setup | Plan and implement A/B tests |
+| analytics-tracking | GA4, GTM, event tracking |
+
+### Social Media
+
+| Skill | Purpose |
+|-------|---------|
+| social-content | Social media content and scheduling |
 
 ## Content Humanization
 
@@ -76,7 +91,7 @@ Use this skill when:
 - **CRO tools**: `Marketing & Growth`
 - **Analytics**: `Marketing & Growth` or `Integration & Automation`
 
-## Key Skill Repository
+## Key Skill Repositories
 
 ### Antigravity Collection
 ```
@@ -89,13 +104,26 @@ sickn33/antigravity-awesome-skills/skills/
 ├── pricing-strategy/
 ├── launch-strategy/
 ├── programmatic-seo/
-├── marketing-ideas/
-├── marketing-psychology/
+└── marketing-ideas/
+```
+
+### Corey Haines Marketing Skills
+```
+coreyhaines31/marketingskills/skills/
+├── ab-test-setup/
+├── analytics-tracking/
+├── competitor-alternatives/
+├── copy-editing/
 ├── form-cro/
-├── signup-flow-cro/
+├── free-tool-strategy/
+├── marketing-psychology/
 ├── onboarding-cro/
 ├── paywall-upgrade-cro/
-└── popup-cro/
+├── popup-cro/
+├── referral-program/
+├── schema-markup/
+├── signup-flow-cro/
+└── social-content/
 ```
 
 ## Marketing Workflow Integration

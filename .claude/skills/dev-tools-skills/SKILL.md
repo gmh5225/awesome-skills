@@ -32,6 +32,13 @@ Use this skill when:
 | EPUB | claude-epub-skill | Markdown to ebook conversion |
 | Reveal.js | revealjs-skill | HTML presentations |
 
+### Translation
+
+| Format | Skill | Capabilities |
+|--------|-------|--------------|
+| EPUB | epub-translator | Multi-language EPUB translation with parallel processing |
+| PDF | pdf-translator | PDF translation with layout preservation, Markdown/PDF output |
+
 ## Browser Automation
 
 | Tool | Skill | Use Case |
@@ -92,6 +99,13 @@ obra/superpowers/skills/
 ├── using-git-worktrees/
 ├── finishing-a-development-branch/
 └── systematic-debugging/
+```
+
+### Translation (Nebu1eto/skills)
+```
+Nebu1eto/skills/
+├── epub-translator/    # EPUB multi-language translation
+└── pdf-translator/     # PDF translation with layout preservation
 ```
 
 ## Integration Patterns
