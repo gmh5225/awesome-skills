@@ -209,7 +209,6 @@ Detailed description of the skill's purpose.
 | [claude-starter](https://github.com/raintree-technology/claude-starter) | Production-ready Claude Code configuration template |
 | [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare) | Cloudflare platform reference docs |
 | [solana-dev-skill](https://github.com/GuiBibeau/solana-dev-skill) | Solana blockchain development skill |
-| [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | Convert documentation websites into Skills |
 
 ### Data & Analysis
 
@@ -339,7 +338,6 @@ Detailed description of the skill's purpose.
 | Skill | Description |
 |-------|-------------|
 | [shipany-docs](https://github.com/nicepkg/awesomeAgentskills/tree/main/shipany) | Shipany AI-powered SaaS boilerplate (228 pages) |
-| [react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) | React patterns from Vercel |
 | [react-native-best-practices](https://github.com/callstackincubator/agent-skills/blob/main/skills/react-native-best-practices/SKILL.md) | React Native optimization from Callstack |
 
 ### Maker & Product Tools
@@ -420,8 +418,7 @@ Detailed description of the skill's purpose.
 | Framework | Description |
 |-----------|-------------|
 | [Cobra CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/frameworks/cobra-cli-go) | Charmbracelet Bubbles CLI with Golang Cobra |
-| [Node.js Azure Functions](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/frameworks/nodejs-typescript) | Azure Function Apps with TypeScript |
-| [Express API](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/frameworks/nodejs-typescript) | REST API with Express.js and TypeScript |
+| [Node.js TypeScript](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/frameworks/nodejs-typescript) | Azure Functions & Express API with TypeScript |
 | [Terraform](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/tools/infra-as-code/terraform) | Infrastructure as Code with Atmos |
 | [Drupal 11](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/tools/cms/drupal) | Drupal module and theme development |
 
