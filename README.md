@@ -183,6 +183,7 @@ Detailed description of the skill's purpose.
 | [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) | Awesome collection with official and community-built resources |
 | [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) | Git, code review, and testing skills |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | **23 marketing skills**: CRO, copywriting, SEO, analytics, A/B testing, email sequences |
+| [remotion-dev/skills](https://github.com/remotion-dev/skills) | Remotion skills for programmatic video creation in React |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | Instructions, prompts, skills and custom agents for GitHub Copilot |
 
 ### Document Processing
