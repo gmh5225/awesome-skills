@@ -153,3 +153,13 @@ coreyhaines31/marketingskills/skills/
 3. **Brand consistency**: Maintain voice and style
 4. **Compliance**: GDPR, CAN-SPAM awareness
 5. **Attribution**: Track conversion sources
+
+## Full Resource List
+
+For more detailed marketing skill resources, complete link lists, or the latest information, use WebFetch to retrieve the full README.md:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-skills/refs/heads/main/README.md
+```
+
+The README.md contains the complete categorized resource list with all links.

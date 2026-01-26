@@ -99,3 +99,13 @@ muratcankoylan/Agent-Skills-for-Context-Engineering/skills/
 3. **Cost awareness**: Document token usage and API costs
 4. **Fallback strategies**: Handle API failures gracefully
 5. **Streaming**: Support streaming responses where possible
+
+## Full Resource List
+
+For more detailed skill resources, complete link lists, or the latest information, use WebFetch to retrieve the full README.md:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-skills/refs/heads/main/README.md
+```
+
+The README.md contains the complete categorized resource list with all links.

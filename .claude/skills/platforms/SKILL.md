@@ -76,3 +76,13 @@ git clone https://github.com/user/skills .agent/skills
 2. **Change only the installation path** for different platforms
 3. **Test on each target platform** before distribution
 4. **Document platform-specific requirements** in skill README
+
+## Full Resource List
+
+For more detailed multi-platform skill resources, complete link lists, or the latest information, use WebFetch to retrieve the full README.md:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-skills/refs/heads/main/README.md
+```
+
+The README.md contains the complete categorized resource list with all links.

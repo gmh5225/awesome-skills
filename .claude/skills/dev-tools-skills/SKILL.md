@@ -130,3 +130,13 @@ Nebu1eto/skills/
 3. **Logging**: Provide debug output options
 4. **Dependencies**: Document required tools/packages
 5. **Examples**: Include real-world usage examples
+
+## Full Resource List
+
+For more detailed dev tools skill resources, complete link lists, or the latest information, use WebFetch to retrieve the full README.md:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-skills/refs/heads/main/README.md
+```
+
+The README.md contains the complete categorized resource list with all links.

@@ -69,3 +69,13 @@ awesome-skills/
 3. Keep the description English and useful.
 4. Put it into the most appropriate category.
 5. Prefer minimal changes over reformatting large sections.
+
+## Full Resource List
+
+For more detailed skill resources, complete link lists, or the latest information, use WebFetch to retrieve the full README.md:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-skills/refs/heads/main/README.md
+```
+
+The README.md contains the complete categorized resource list with all links.

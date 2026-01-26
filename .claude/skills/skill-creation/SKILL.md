@@ -90,3 +90,13 @@ Skills employ progressive disclosure architecture:
 - [ ] Documents prerequisites and dependencies
 - [ ] Includes error handling guidance
 - [ ] Tested on target platform(s)
+
+## Full Resource List
+
+For more detailed skill creation resources, complete link lists, or the latest information, use WebFetch to retrieve the full README.md:
+
+```
+https://raw.githubusercontent.com/gmh5225/awesome-skills/refs/heads/main/README.md
+```
+
+The README.md contains the complete categorized resource list with all links.
