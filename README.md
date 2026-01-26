@@ -173,6 +173,7 @@ Detailed description of the skill's purpose.
 |------------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
 | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | **9 game security skills**: anti-cheat systems, DMA attacks, game engine modding, reverse engineering, Windows kernel security |
+| [gmh5225/awesome-web3-security](https://github.com/gmh5225/awesome-web3-security) | **6 Web3 security skills**: smart contract security, Solana security, MEV, wallet security, security tooling |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | **179+ skills** for Claude Code, Gemini CLI, Cursor, Copilot & more |
