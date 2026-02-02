@@ -181,6 +181,7 @@ Detailed description of the skill's purpose.
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | **600+ agentic skills** for Claude Code, Antigravity, Cursor with official Anthropic & Vercel skills |
 | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | **488+ prompts & 260+ skills**: standardized AI prompts, Claude Code skills, automation hooks |
+| [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) | **25+ specialized skills**: AWS, LangChain, Vercel, Cloudflare, MongoDB, OWASP security for Copilot/Claude/Cursor/Windsurf |
 | [obra/superpowers](https://github.com/obra/superpowers) | Core skills library with 20+ battle-tested skills including TDD, debugging |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai collection with CLI installer |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills for Claude Code and Claude.ai |
