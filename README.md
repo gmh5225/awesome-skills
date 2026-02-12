@@ -169,6 +169,8 @@ Detailed description of the skill's purpose.
 
 ### Skill Collections
 
+**[Learn Skills](https://www.learn-skills.dev/)** — Curated high-quality AI Agent Skills. Search, install, copy and share.
+
 | Repository | Description |
 |------------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
