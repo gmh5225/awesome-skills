@@ -174,6 +174,7 @@ Detailed description of the skill's purpose.
 | Repository | Description |
 |------------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official Anthropic directory of high-quality Claude Code plugins (skills, MCP, commands) |
 | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | **9 game security skills**: anti-cheat systems, DMA attacks, game engine modding, reverse engineering, Windows kernel security |
 | [gmh5225/awesome-web3-security](https://github.com/gmh5225/awesome-web3-security) | **6 Web3 security skills**: smart contract security, Solana security, MEV, wallet security, security tooling |
 | [gmh5225/awesome-ai-security](https://github.com/gmh5225/awesome-ai-security) | **5 AI security skills**: adversarial ML, LLM attacks, AI pentesting, security tooling |
