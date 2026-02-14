@@ -186,6 +186,7 @@ Detailed description of the skill's purpose.
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | **600+ agentic skills** for Claude Code, Antigravity, Cursor with official Anthropic & Vercel skills |
 | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | **488+ prompts & 260+ skills**: standardized AI prompts, Claude Code skills, automation hooks |
+| [austintgriffith/ethskills](https://github.com/austintgriffith/ethskills) | Production Ethereum knowledge for AI: gas, wallets, L2s, standards, x402, verified addresses; URL-based, no install |
 | [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) | **25+ specialized skills**: AWS, LangChain, Vercel, Cloudflare, MongoDB, OWASP security for Copilot/Claude/Cursor/Windsurf |
 | [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | WebGPU + Three.js TSL skill: shaders, GPU compute, post-processing, WGSL integration |
 | [gmh5225/android-reverse-engineering-skill](https://github.com/gmh5225/android-reverse-engineering-skill) | Android reverse engineering: decompile APK/XAPK/JAR/AAR, extract HTTP APIs, trace call flows |
