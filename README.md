@@ -190,6 +190,7 @@ Detailed description of the skill's purpose.
 | [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | WebGPU + Three.js TSL skill: shaders, GPU compute, post-processing, WGSL integration |
 | [gmh5225/android-reverse-engineering-skill](https://github.com/gmh5225/android-reverse-engineering-skill) | Android reverse engineering: decompile APK/XAPK/JAR/AAR, extract HTTP APIs, trace call flows |
 | [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | Design engineering for Claude Code: craft, memory, and enforcement for consistent UI |
+| [ognjengt/founder-skills](https://github.com/ognjengt/founder-skills) | **20+ skills for founders**: PRD, CRO, viral hooks, GTM, X/LinkedIn writing, outreach, pricing, Product Hunt launch |
 | [obra/superpowers](https://github.com/obra/superpowers) | Core skills library with 20+ battle-tested skills including TDD, debugging |
 | [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) | SkillCreator.ai collection with CLI installer |
 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills for Claude Code and Claude.ai |
