@@ -406,6 +406,7 @@ Detailed description of the skill's purpose.
 
 ## Skills Marketplaces
 
+- [Learn Skills](https://www.learn-skills.dev/) - Curated high-quality AI Agent Skills. Search, install, copy and share.
 - [skillsmp.com](https://skillsmp.com/) - Most comprehensive and frequently updated Skills marketplace
 - [SkillStore](https://skillstore.io/) - Security-audited Skills marketplace
 - [agentskills.me](https://agentskills.me/) - Marketplace offering developer revenue sharing
