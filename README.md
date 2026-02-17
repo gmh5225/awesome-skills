@@ -188,6 +188,7 @@ Detailed description of the skill's purpose.
 | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | **488+ prompts & 260+ skills**: standardized AI prompts, Claude Code skills, automation hooks |
 | [austintgriffith/ethskills](https://github.com/austintgriffith/ethskills) | Production Ethereum knowledge for AI: gas, wallets, L2s, standards, x402, verified addresses; URL-based, no install |
 | [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) | **25+ specialized skills**: AWS, LangChain, Vercel, Cloudflare, MongoDB, OWASP security for Copilot/Claude/Cursor/Windsurf |
+| [jup-ag/agent-skills](https://github.com/jup-ag/agent-skills) | Skills for AI coding agents to integrate with the Jupiter ecosystem |
 | [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | WebGPU + Three.js TSL skill: shaders, GPU compute, post-processing, WGSL integration |
 | [gmh5225/android-reverse-engineering-skill](https://github.com/gmh5225/android-reverse-engineering-skill) | Android reverse engineering: decompile APK/XAPK/JAR/AAR, extract HTTP APIs, trace call flows |
 | [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | Design engineering for Claude Code: craft, memory, and enforcement for consistent UI |
