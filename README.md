@@ -205,6 +205,7 @@ Detailed description of the skill's purpose.
 | [remotion-dev/skills](https://github.com/remotion-dev/skills) | Remotion skills for programmatic video creation in React |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | Instructions, prompts, skills and custom agents for GitHub Copilot |
 | [vivy-yi/xiaohongshu-skills](https://github.com/vivy-yi/xiaohongshu-skills) | **139 Xiaohongshu (Little Red Book) skills**: content, account ops, analytics, e-commerce, platform rules, tools, marketing, growth |
+| [Uniswap/uniswap-ai](https://github.com/Uniswap/uniswap-ai) | AI tools for building on Uniswap: skills, plugins, and agents for any coding agent |
 
 ### Document Processing
 
