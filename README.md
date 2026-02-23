@@ -177,6 +177,7 @@ Detailed description of the skill's purpose.
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official Anthropic directory of high-quality Claude Code plugins (skills, MCP, commands) |
 | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) | **47 expert-level skills**: frameworks, templates, code examples for leadership, engineering, product, marketing, sales, data, HR |
 | [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) | Secure coding skill: prevent IDOR, XSS, SSRF, SQLi, auth issues; framework- and cloud-aware |
+| [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) | Crypto wallet skills: authenticate, fund, send USDC, trade on Base, x402 pay/monetize, query onchain (awal CLI) |
 | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | **9 game security skills**: anti-cheat systems, DMA attacks, game engine modding, reverse engineering, Windows kernel security |
 | [gmh5225/awesome-web3-security](https://github.com/gmh5225/awesome-web3-security) | **6 Web3 security skills**: smart contract security, Solana security, MEV, wallet security, security tooling |
 | [gmh5225/awesome-ai-security](https://github.com/gmh5225/awesome-ai-security) | **5 AI security skills**: adversarial ML, LLM attacks, AI pentesting, security tooling |
