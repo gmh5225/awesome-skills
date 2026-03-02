@@ -192,6 +192,7 @@ Detailed description of the skill's purpose.
 | [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) | **25+ specialized skills**: AWS, LangChain, Vercel, Cloudflare, MongoDB, OWASP security for Copilot/Claude/Cursor/Windsurf |
 | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | **270+ plugins, 739+ agent skills**: production orchestration, 11 Jupyter tutorials, CCPI package manager |
 | [jup-ag/agent-skills](https://github.com/jup-ag/agent-skills) | Skills for AI coding agents to integrate with the Jupiter ecosystem |
+| [KyleAMathews/hegelian-dialectic-skill](https://github.com/KyleAMathews/hegelian-dialectic-skill) | Hegelian dialectic / Electric Monks: two subagents hold opposing positions, orchestrator synthesizes; deep reasoning for architecture, strategy, decisions |
 | [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | WebGPU + Three.js TSL skill: shaders, GPU compute, post-processing, WGSL integration |
 | [gmh5225/android-reverse-engineering-skill](https://github.com/gmh5225/android-reverse-engineering-skill) | Android reverse engineering: decompile APK/XAPK/JAR/AAR, extract HTTP APIs, trace call flows |
 | [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | Design engineering for Claude Code: craft, memory, and enforcement for consistent UI |
