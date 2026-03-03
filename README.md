@@ -190,6 +190,7 @@ Detailed description of the skill's purpose.
 | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | **488+ prompts & 260+ skills**: standardized AI prompts, Claude Code skills, automation hooks |
 | [austintgriffith/ethskills](https://github.com/austintgriffith/ethskills) | Production Ethereum knowledge for AI: gas, wallets, L2s, standards, x402, verified addresses; URL-based, no install |
 | [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) | **25+ specialized skills**: AWS, LangChain, Vercel, Cloudflare, MongoDB, OWASP security for Copilot/Claude/Cursor/Windsurf |
+| [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices) | Best practices for writing agent skills: structure, frontmatter, progressive disclosure, LLM-based validation, lean context |
 | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | **270+ plugins, 739+ agent skills**: production orchestration, 11 Jupyter tutorials, CCPI package manager |
 | [jup-ag/agent-skills](https://github.com/jup-ag/agent-skills) | Skills for AI coding agents to integrate with the Jupiter ecosystem |
 | [KyleAMathews/hegelian-dialectic-skill](https://github.com/KyleAMathews/hegelian-dialectic-skill) | Hegelian dialectic / Electric Monks: two subagents hold opposing positions, orchestrator synthesizes; deep reasoning for architecture, strategy, decisions |
