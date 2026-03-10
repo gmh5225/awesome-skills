@@ -209,6 +209,7 @@ Detailed description of the skill's purpose.
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | **23 marketing skills**: CRO, copywriting, SEO, analytics, A/B testing, email sequences |
 | [remotion-dev/skills](https://github.com/remotion-dev/skills) | Remotion skills for programmatic video creation in React |
 | [sanbir/move-auditor-skills](https://github.com/sanbir/move-auditor-skills) | **Sui Move security audit**: 143 attack vectors, 5–7 parallel agents, DeFi protocol checklists, adversarial reasoning; Claude Code/Cursor |
+| [sanbir/solidity-auditor-skills](https://github.com/sanbir/solidity-auditor-skills) | **Solidity security audit**: 210 attack vectors, 5–7 parallel agents, DeFi protocol checklists, adversarial reasoning; fork of pashov/skills; Claude Code/Cursor |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | Instructions, prompts, skills and custom agents for GitHub Copilot |
 | [vivy-yi/xiaohongshu-skills](https://github.com/vivy-yi/xiaohongshu-skills) | **139 Xiaohongshu (Little Red Book) skills**: content, account ops, analytics, e-commerce, platform rules, tools, marketing, growth |
 | [Uniswap/uniswap-ai](https://github.com/Uniswap/uniswap-ai) | AI tools for building on Uniswap: skills, plugins, and agents for any coding agent |
