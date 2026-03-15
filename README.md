@@ -220,6 +220,7 @@ Detailed description of the skill's purpose.
 | [vivy-yi/xiaohongshu-skills](https://github.com/vivy-yi/xiaohongshu-skills) | **139 Xiaohongshu (Little Red Book) skills**: content, account ops, analytics, e-commerce, platform rules, tools, marketing, growth |
 | [Uniswap/uniswap-ai](https://github.com/Uniswap/uniswap-ai) | AI tools for building on Uniswap: skills, plugins, and agents for any coding agent |
 | [gate/gate-skills](https://github.com/gate/gate-skills) | **Gate Skills**: open skills marketplace for AI agents — Gate crypto ecosystem: market analysis, derivatives, spot/futures/DEX trading, wallet, news, risk check; one-click MCP installers for Cursor, OpenClaw, Claude Code, Codex |
+| [himself65/finance-skills](https://github.com/himself65/finance-skills) | **Finance Skills**: financial analysis and trading — options payoff charts, stock correlation/pair-trading, yfinance data (OHLCV, statements, options, dividends); read-only Discord/Telegram/Twitter research; generative-ui for Claude.ai; educational use only |
 
 ### Document Processing
 
