@@ -445,6 +445,7 @@ Detailed description of the skill's purpose.
 ## Content Humanization
 
 - [humanizer](https://github.com/blader/humanizer) - Remove AI writing signs from text
+- [stop-slop](https://github.com/hardikpandya/stop-slop) - Agent skill to strip AI tells from prose: banned phrases, structural clichés, sentence-level rules; reference phrase/structure lists and before/after examples; 5-dimension scoring rubric
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer Chinese version
 
 
