@@ -266,7 +266,7 @@ Detailed description of the skill's purpose.
 | Skill | Description |
 |-------|-------------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Web browser capability for agents |
-| [feishu-inout](https://github.com/joe960913/feishu-inout) | Lark/Feishu docs, messaging, calendar & bitable integration. Read/write documents, send/search messages, create meetings, manage bitable records. Zero dependencies, official MCP |
+| [feishu-inout](https://github.com/joe960913/feishu-inout) | Lark/Feishu docs, messaging, calendar & bitable integration |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
 | [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Manage Linear issues, projects, and teams |
