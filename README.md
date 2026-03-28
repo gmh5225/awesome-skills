@@ -449,6 +449,8 @@ Detailed description of the skill's purpose.
 - [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - `npx skills` CLI tool for quick installation
 
 
+- [caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and auto-generates agent skills, CLAUDE.md, .cursor/rules/, and AGENTS.md across Claude Code, Cursor, GitHub Copilot, and OpenAI Codex. Scores config quality and keeps docs in sync.
+
 ## Content Humanization
 
 - [humanizer](https://github.com/blader/humanizer) - Remove AI writing signs from text
