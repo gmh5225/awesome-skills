@@ -289,6 +289,7 @@ Detailed description of the skill's purpose.
 |-------|-------------|
 | [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) | Digital forensics analysis and investigation |
 | [Threat Hunting](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) | Hunt for threats using Sigma detection rules |
+| [security-investigator](https://github.com/SCStelz/security-investigator) | Automated SOC investigation framework for GitHub Copilot + VS Code Agent Skills + MCP: Sentinel/Defender/Graph/KQL workflows, 22 investigation skills, 7 MCP integrations, threat-intel enrichment, and report generation |
 | [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) | Multi-layered testing and security best practices |
 | [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) | Secure environment variable management |
 
