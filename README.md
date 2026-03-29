@@ -266,6 +266,7 @@ Detailed description of the skill's purpose.
 | Skill | Description |
 |-------|-------------|
 | [Dev Browser](https://github.com/SawyerHood/dev-browser) | Web browser capability for agents |
+| [feishu-inout](https://github.com/joe960913/feishu-inout) | Lark/Feishu docs, messaging, calendar & bitable integration |
 | [Sheets CLI](https://github.com/gmickel/sheets-cli) | Google Sheets CLI automation |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
 | [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Manage Linear issues, projects, and teams |
@@ -448,6 +449,8 @@ Detailed description of the skill's purpose.
 - [skillmaster](https://github.com/davidyangcool/agent-skill) - Manage, install, and use Agent Skills via terminal
 - [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - `npx skills` CLI tool for quick installation
 
+
+- [caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and auto-generates agent skills, CLAUDE.md, .cursor/rules/, and AGENTS.md across Claude Code, Cursor, GitHub Copilot, and OpenAI Codex. Scores config quality and keeps docs in sync.
 
 ## Content Humanization
 
