@@ -273,6 +273,10 @@ Detailed description of the skill's purpose.
 | [n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n workflow automation skills |
 | [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
 | [Skyvern Browser Automation](https://github.com/Skyvern-AI/skyvern/tree/main/skyvern/cli/skills/skyvern) | AI browser automation for dynamic pages, forms, and data extraction |
+| [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
+| [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Manage Linear issues, projects, and teams |
+| [n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n workflow automation skills |
+| [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
 
 ### Collaboration & Project Management
 
