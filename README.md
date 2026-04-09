@@ -449,6 +449,7 @@ Detailed description of the skill's purpose.
 - [skild.sh](https://skild.sh/) - CLI tool for installing, managing, and syncing Skills
 - [agent-skills-guard](https://github.com/brucevanfdm/agent-skills-guard) - Skills visualization management + security scanning
 - [skillmaster](https://github.com/davidyangcool/agent-skill) - Manage, install, and use Agent Skills via terminal
+- [Agent Skills Manager](https://github.com/umutbozdag/agent-skills-manager) - Standalone `manage-skills` resource for terminal-first skill lifecycle management (discover/create/edit/toggle/copy/move/delete) across 11 tools, plus a Next.js dashboard for search, filters, bulk actions, and cross-tool installs
 - [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - `npx skills` CLI tool for quick installation
 
 
