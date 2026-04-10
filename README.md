@@ -185,6 +185,7 @@ Detailed description of the skill's purpose.
 | [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) | **9 game security skills**: anti-cheat systems, DMA attacks, game engine modding, reverse engineering, Windows kernel security |
 | [gmh5225/awesome-web3-security](https://github.com/gmh5225/awesome-web3-security) | **6 Web3 security skills**: smart contract security, Solana security, MEV, wallet security, security tooling |
 | [gmh5225/awesome-ai-security](https://github.com/gmh5225/awesome-ai-security) | **5 AI security skills**: adversarial ML, LLM attacks, AI pentesting, security tooling |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | **754 structured cybersecurity skills** for AI agents, mapped to MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, and NIST AI RMF; agentskills.io standard; cross-platform support (Claude Code, Copilot, Codex CLI, Cursor, Gemini CLI, and more) |
 | [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) | **565+ Clawdbot skills**: web dev, DevOps, AI/LLMs, marketing, productivity, media, health, smart home |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired Claude Code guidelines: think before coding, simplicity first, surgical changes |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
