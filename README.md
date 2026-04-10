@@ -445,6 +445,7 @@ Detailed description of the skill's purpose.
 - [SkillStore](https://skillstore.io/) - Security-audited Skills marketplace
 - [agentskills.me](https://agentskills.me/) - Marketplace offering developer revenue sharing
 - [skills.rest](https://skills.rest/) - Marketplace with Skill rating system
+- [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
 
 
 ## Supporting Tools
