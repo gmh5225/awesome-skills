@@ -400,6 +400,7 @@ Detailed description of the skill's purpose.
 | [google-official-seo-guide](https://github.com/nicepkg/awesomeAgentskills/tree/main/google-official-seo-guide) | Google SEO documentation reference |
 | [internationalizing-websites](https://github.com/nicepkg/awesomeAgentskills/tree/main/internationalizing-websites) | Multi-language support with next-intl |
 | [deploying-to-production](https://github.com/nicepkg/awesomeAgentskills/tree/main/deploying-to-production) | GitHub + Vercel deployment automation |
+| [toprank](https://github.com/nowork-studio/toprank) | 9 SEO and Google Ads skills for Claude Code — connects Google Search Console, PageSpeed Insights, and Google Ads API; rewrites meta tags, generates JSON-LD schema, ships fixes to WordPress/Strapi/Contentful/Ghost (MIT, 107 stars) |
 
 ### Framework Documentation
 
