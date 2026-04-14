@@ -391,6 +391,7 @@ Detailed description of the skill's purpose.
 | [graphql](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/graphql) | GraphQL schema design and Apollo integration |
 | [aws-serverless](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/aws-serverless) | Lambda, API Gateway, DynamoDB |
 | [vercel-deployment](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/vercel-deployment) | Vercel deployment and edge functions |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) data platform: 122 REST API endpoints, 2 MCP tools, tweet search, user lookup, bulk extraction, write actions, giveaway draws, monitoring, webhooks |
 
 ### Web Performance & SEO
 
