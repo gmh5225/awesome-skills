@@ -392,6 +392,7 @@ Detailed description of the skill's purpose.
 | [graphql](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/graphql) | GraphQL schema design and Apollo integration |
 | [aws-serverless](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/aws-serverless) | Lambda, API Gateway, DynamoDB |
 | [vercel-deployment](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/vercel-deployment) | Vercel deployment and edge functions |
+| [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) search, lookup, extraction, monitoring, and MCP tools |
 
 ### Web Performance & SEO
 
@@ -401,6 +402,7 @@ Detailed description of the skill's purpose.
 | [google-official-seo-guide](https://github.com/nicepkg/awesomeAgentskills/tree/main/google-official-seo-guide) | Google SEO documentation reference |
 | [internationalizing-websites](https://github.com/nicepkg/awesomeAgentskills/tree/main/internationalizing-websites) | Multi-language support with next-intl |
 | [deploying-to-production](https://github.com/nicepkg/awesomeAgentskills/tree/main/deploying-to-production) | GitHub + Vercel deployment automation |
+| [toprank](https://github.com/nowork-studio/toprank) | 9 SEO and Google Ads skills for Claude Code: auditing and optimization |
 
 ### Framework Documentation
 
