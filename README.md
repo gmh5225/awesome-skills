@@ -450,6 +450,7 @@ Detailed description of the skill's purpose.
 - [Learn Skills](https://www.learn-skills.dev/) - Curated high-quality AI Agent Skills. Search, install, copy and share.
 - [skillsmp.com](https://skillsmp.com/) - Most comprehensive and frequently updated Skills marketplace
 - [SkillStore](https://skillstore.io/) - Security-audited Skills marketplace
+- [Skills宝](https://skilery.com) - Chinese AI Skills marketplace for one-stop search and install across Claude Code, OpenCode, and more platforms
 - [agentskills.me](https://agentskills.me/) - Marketplace offering developer revenue sharing
 - [skills.rest](https://skills.rest/) - Marketplace with Skill rating system
 - [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
