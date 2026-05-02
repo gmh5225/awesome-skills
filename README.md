@@ -240,7 +240,7 @@ Detailed description of the skill's purpose.
 
 | Skill | Description |
 |-------|-------------|
-| [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) | Audit local AI coding-agent sessions for token/cost usage, tool failures, latency, anomalies, health, diffs, and CI gates |
+| [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) | Audit local AI coding agent sessions for token/cost usage, tool failures, latency, anomalies, health, diffs, and CI gates |
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
 | [EchoCoding](https://github.com/launsion-boop/EchoCoding) | Voice-enabled audio layer for coding agents with hook-triggered SFX, ambient soundscapes, and cloud TTS/ASR `say`/`ask`/`listen` pipes; works with Claude Code, Cursor/Windsurf, Codex CLI, and Gemini CLI |
