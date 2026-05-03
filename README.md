@@ -240,6 +240,7 @@ Detailed description of the skill's purpose.
 
 | Skill | Description |
 |-------|-------------|
+| [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) | Audit local AI coding agent sessions for token/cost usage, tool failures, latency, anomalies, health, diffs, and CI gates |
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
 | [EchoCoding](https://github.com/launsion-boop/EchoCoding) | Voice-enabled audio layer for coding agents with hook-triggered SFX, ambient soundscapes, and cloud TTS/ASR `say`/`ask`/`listen` pipes; works with Claude Code, Cursor/Windsurf, Codex CLI, and Gemini CLI |
@@ -450,6 +451,7 @@ Detailed description of the skill's purpose.
 - [Learn Skills](https://www.learn-skills.dev/) - Curated high-quality AI Agent Skills. Search, install, copy and share.
 - [skillsmp.com](https://skillsmp.com/) - Most comprehensive and frequently updated Skills marketplace
 - [SkillStore](https://skillstore.io/) - Security-audited Skills marketplace
+- [Skills宝](https://skilery.com) - Chinese AI Skills marketplace for one-stop search and install across Claude Code, OpenCode, and more platforms
 - [agentskills.me](https://agentskills.me/) - Marketplace offering developer revenue sharing
 - [skills.rest](https://skills.rest/) - Marketplace with Skill rating system
 - [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
@@ -474,6 +476,7 @@ Detailed description of the skill's purpose.
 - [humanizer](https://github.com/blader/humanizer) - Remove AI writing signs from text
 - [stop-slop](https://github.com/hardikpandya/stop-slop) - Agent skill to strip AI tells from prose: banned phrases, structural clichés, sentence-level rules; reference phrase/structure lists and before/after examples; 5-dimension scoring rubric
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer Chinese version
+- [humanize-chinese](https://github.com/voidborne-d/humanize-chinese) - Chinese AI text detection + style rewriting; statistical 0-100 scorer (no API calls, pure Python, zero dependencies), genre-aware (academic / novel / general) with auto scene routing for long-form, and 7 humanization styles (casual / zhihu / xiaohongshu / wechat / academic / literary / weibo); covers academic AIGC reduction patterns for CNKI/VIP/Wanfang
 
 
 ## GitHub Copilot Instructions & Prompts
