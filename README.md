@@ -467,6 +467,7 @@ Detailed description of the skill's purpose.
 
 
 - [caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and auto-generates agent skills, CLAUDE.md, .cursor/rules/, and AGENTS.md across Claude Code, Cursor, GitHub Copilot, and OpenAI Codex. Scores config quality and keeps docs in sync.
+- [Open Design](https://github.com/nexu-io/open-design) - Local-first open design loop (Next.js + daemon): auto-detects coding-agent CLIs on PATH and drives artifact-first workflows with **31** composable `SKILL.md` bundles, **72** brand-grade `DESIGN.md` systems, discovery forms, sandboxed preview, multi-format export; OpenAI-compatible BYOK proxy when no CLI — Apache-2.0
 
 ## Content Humanization
 
