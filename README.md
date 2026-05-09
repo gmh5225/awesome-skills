@@ -402,6 +402,7 @@ Detailed description of the skill's purpose.
 | [aws-serverless](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/aws-serverless) | Lambda, API Gateway, DynamoDB |
 | [vercel-deployment](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/vercel-deployment) | Vercel deployment and edge functions |
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) search, lookup, extraction, monitoring, and MCP tools |
+| [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | Hermes-native plugin for X (Twitter) search, posting, monitoring, DMs, and automation |
 
 ### Web Performance & SEO
 
