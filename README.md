@@ -191,7 +191,7 @@ Detailed description of the skill's purpose.
 | [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) | **565+ Clawdbot skills**: web dev, DevOps, AI/LLMs, marketing, productivity, media, health, smart home |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired Claude Code guidelines: think before coding, simplicity first, surgical changes |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
-| [unitedideas/bringyour-mcp](https://github.com/unitedideas/bringyour-mcp) | Public Bring Your AI Codex skill, subagent, and GitHub Action examples for auditing Claude Code to Codex migration output while keeping private harness files local. |
+| [unitedideas/bringyour-mcp](https://github.com/unitedideas/bringyour-mcp) | Public Bring Your AI Codex skill, subagent, and GitHub Action examples for auditing Claude Code to Codex migration output while keeping private harness files local |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | **600+ agentic skills** for Claude Code, Antigravity, Cursor with official Anthropic & Vercel skills |
 | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | **488+ prompts & 260+ skills**: standardized AI prompts, Claude Code skills, automation hooks |
