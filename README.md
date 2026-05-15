@@ -258,6 +258,7 @@ Detailed description of the skill's purpose.
 | [claude-starter](https://github.com/raintree-technology/claude-starter) | Production-ready Claude Code configuration template |
 | [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare) | Cloudflare platform reference docs |
 | [solana-dev-skill](https://github.com/GuiBibeau/solana-dev-skill) | Solana blockchain development skill |
+| [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) | Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework (pattern from xAI's open-sourced X For You algorithm). Runnable scaffolds for Strapi (TypeScript), Go, Python/FastAPI |
 
 ### Data & Analysis
 
