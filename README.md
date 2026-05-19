@@ -311,6 +311,7 @@ Detailed description of the skill's purpose.
 
 | Skill | Description |
 |-------|-------------|
+| [Suppr Skills](https://github.com/WildDataX/suppr-skills) | Claude Code skills for Suppr academic literature search and document translation APIs, supporting research-reading and document workflows |
 | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 125+ scientific skills for bioinformatics, cheminformatics |
 | [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) | Computational materials science skills |
 | [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) | Family history and genealogy research |
