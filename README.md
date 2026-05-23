@@ -285,6 +285,7 @@ Detailed description of the skill's purpose.
 | [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Manage Linear issues, projects, and teams |
 | [n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n workflow automation skills |
 | [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
+| [FlowHunt Skill](https://github.com/heyneuron/flowhunt-skill) | Automation discovery audit: 5-question workflow intake + Gmail/Calendar/Slack analysis to identify automation opportunities |
 
 ### Collaboration & Project Management
 
