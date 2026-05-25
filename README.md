@@ -229,7 +229,7 @@ Detailed description of the skill's purpose.
 | [himself65/finance-skills](https://github.com/himself65/finance-skills) | **Finance Skills**: financial analysis and trading — options payoff charts, stock correlation/pair-trading, yfinance data (OHLCV, statements, options, dividends); read-only Discord/Telegram/Twitter research; generative-ui for Claude.ai; educational use only |
 | [openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) | **OpenAccountants**: 371 tax classification skills across 134 countries — VAT/GST, income tax, social contributions; bank statement classifier with conservative defaults; Schedule C, TA24, BAS, and more |
 | [star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills) | **Day1Global**: investment analysis skills (US stocks, macro, crypto) — flagship `tech-earnings-deepdive`: 16 modules, 6 philosophy lenses, multi-method valuation, variant view, anti-bias & pre-mortem, actionable decisions; tiered evidence; synergistic skills (e.g. value, sentiment, liquidity); research only, not investment advice |
-| [longbridge/skills](https://github.com/longbridge/skills) | **Longbridge**: Agent skills for Longbridge Securities — real-time quotes, charts, fundamentals, portfolio, valuation for HK/US/A-share/SG markets. 125+ skills, trilingual (Simplified Chinese / Traditional Chinese / English) |
+| [longbridge/skills](https://github.com/longbridge/skills) | **Longbridge**: Agent skills for Longbridge Securities — real-time quotes, charts, fundamentals, portfolio, valuation for HK/US/A-share/SG markets; 125+ skills; trilingual (Simplified Chinese / Traditional Chinese / English) |
 
 ### Document Processing
 
