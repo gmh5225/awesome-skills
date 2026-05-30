@@ -191,6 +191,7 @@ Detailed description of the skill's purpose.
 | [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) | **565+ Clawdbot skills**: web dev, DevOps, AI/LLMs, marketing, productivity, media, health, smart home |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired Claude Code guidelines: think before coding, simplicity first, surgical changes |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
+| [unitedideas/bringyour-mcp](https://github.com/unitedideas/bringyour-mcp) | Public Bring Your AI Codex skill, subagent, and GitHub Action examples for auditing Claude Code to Codex migration output while keeping private harness files local |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | **600+ agentic skills** for Claude Code, Antigravity, Cursor with official Anthropic & Vercel skills |
 | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | **488+ prompts & 260+ skills**: standardized AI prompts, Claude Code skills, automation hooks |
@@ -228,6 +229,7 @@ Detailed description of the skill's purpose.
 | [himself65/finance-skills](https://github.com/himself65/finance-skills) | **Finance Skills**: financial analysis and trading — options payoff charts, stock correlation/pair-trading, yfinance data (OHLCV, statements, options, dividends); read-only Discord/Telegram/Twitter research; generative-ui for Claude.ai; educational use only |
 | [openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) | **OpenAccountants**: 371 tax classification skills across 134 countries — VAT/GST, income tax, social contributions; bank statement classifier with conservative defaults; Schedule C, TA24, BAS, and more |
 | [star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills) | **Day1Global**: investment analysis skills (US stocks, macro, crypto) — flagship `tech-earnings-deepdive`: 16 modules, 6 philosophy lenses, multi-method valuation, variant view, anti-bias & pre-mortem, actionable decisions; tiered evidence; synergistic skills (e.g. value, sentiment, liquidity); research only, not investment advice |
+| [longbridge/skills](https://github.com/longbridge/skills) | **Longbridge**: Agent skills for Longbridge Securities — real-time quotes, charts, fundamentals, portfolio, valuation for HK/US/A-share/SG markets; 125+ skills; trilingual (Simplified Chinese / Traditional Chinese / English) |
 
 ### Document Processing
 
@@ -257,6 +259,7 @@ Detailed description of the skill's purpose.
 | [claude-starter](https://github.com/raintree-technology/claude-starter) | Production-ready Claude Code configuration template |
 | [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare) | Cloudflare platform reference docs |
 | [solana-dev-skill](https://github.com/GuiBibeau/solana-dev-skill) | Solana blockchain development skill |
+| [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) | Framework for designing composable recommendation pipelines (Source → Hydrator → Filter → Scorer → Selector → SideEffect) based on xAI's open-sourced X For You algorithm; includes scaffolds for Strapi, Go, and Python/FastAPI |
 
 ### Data & Analysis
 
@@ -283,6 +286,7 @@ Detailed description of the skill's purpose.
 | [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Manage Linear issues, projects, and teams |
 | [n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n workflow automation skills |
 | [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
+| [FlowHunt Skill](https://github.com/heyneuron/flowhunt-skill) | Automation discovery audit: 5-question workflow intake + Gmail/Calendar/Slack analysis to identify automation opportunities |
 
 ### Collaboration & Project Management
 
@@ -310,6 +314,7 @@ Detailed description of the skill's purpose.
 
 | Skill | Description |
 |-------|-------------|
+| [suppr-skills](https://github.com/WildDataX/suppr-skills) | Claude Code skills for academic literature search and document translation |
 | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 125+ scientific skills for bioinformatics, cheminformatics |
 | [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) | Computational materials science skills |
 | [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) | Family history and genealogy research |
@@ -403,6 +408,7 @@ Detailed description of the skill's purpose.
 | [aws-serverless](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/aws-serverless) | Lambda, API Gateway, DynamoDB |
 | [vercel-deployment](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/vercel-deployment) | Vercel deployment and edge functions |
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) search, lookup, extraction, monitoring, and MCP tools |
+| [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | Hermes-native plugin for X (Twitter) search, posting, monitoring, DMs, and automation |
 
 ### Web Performance & SEO
 
