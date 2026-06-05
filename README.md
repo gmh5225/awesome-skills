@@ -261,7 +261,7 @@ Detailed description of the skill's purpose.
 | [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare) | Cloudflare platform reference docs |
 | [solana-dev-skill](https://github.com/GuiBibeau/solana-dev-skill) | Solana blockchain development skill |
 | [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) | Framework for designing composable recommendation pipelines (Source → Hydrator → Filter → Scorer → Selector → SideEffect) based on xAI's open-sourced X For You algorithm; includes scaffolds for Strapi, Go, and Python/FastAPI |
-| [keelson](https://github.com/innovestrum/keelson) | Tracker-agnostic, issue-driven agentic workflow pack (adopt-keelson + tune-gates); agents ship mechanical work and escalate when a change touches design, plan, or strategy |
+| [keelson](https://github.com/innovestrum/keelson) | Tracker-agnostic, issue-driven agentic workflow pack (adopt-keelson + tune-gates); agents automate mechanical tasks and escalate when a change touches design, plan, or strategy |
 
 ### Data & Analysis
 
