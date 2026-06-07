@@ -294,6 +294,7 @@ Detailed description of the skill's purpose.
 |-------|-------------|
 | [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) | Automate git operations and repository interactions |
 | [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) | Evaluate code implementation plans |
+| [brooks-lint](https://github.com/hyhmrright/brooks-lint) | AI code reviews grounded in 12 classic engineering books: decay-risk diagnostics with book citations and severity labels; 6 analysis modes including full-sweep auto-fix |
 | [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) | Detect failing tests and propose fixes |
 | [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) | TDD implementation workflow |
 | [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) | Git worktrees with smart directory selection |
