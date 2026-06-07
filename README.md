@@ -192,6 +192,7 @@ Detailed description of the skill's purpose.
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired Claude Code guidelines: think before coding, simplicity first, surgical changes |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
 | [unitedideas/bringyour-mcp](https://github.com/unitedideas/bringyour-mcp) | Public Bring Your AI Codex skill, subagent, and GitHub Action examples for auditing Claude Code to Codex migration output while keeping private harness files local |
+| [ggsq003-png/low-frequency-thread-monitor](https://github.com/ggsq003-png/low-frequency-thread-monitor) | Codex skill for non-Goal controller windows: ETA-aware low-frequency monitoring of background worker/review threads while reducing context pollution and quota waste |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | **600+ agentic skills** for Claude Code, Antigravity, Cursor with official Anthropic & Vercel skills |
 | [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) | **488+ prompts & 260+ skills**: standardized AI prompts, Claude Code skills, automation hooks |
@@ -260,6 +261,7 @@ Detailed description of the skill's purpose.
 | [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare) | Cloudflare platform reference docs |
 | [solana-dev-skill](https://github.com/GuiBibeau/solana-dev-skill) | Solana blockchain development skill |
 | [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) | Framework for designing composable recommendation pipelines (Source → Hydrator → Filter → Scorer → Selector → SideEffect) based on xAI's open-sourced X For You algorithm; includes scaffolds for Strapi, Go, and Python/FastAPI |
+| [keelson](https://github.com/innovestrum/keelson) | Tracker-agnostic, issue-driven agentic workflow pack (adopt-keelson + tune-gates); agents automate mechanical tasks and escalate when a change touches design, plan, or strategy |
 
 ### Data & Analysis
 
