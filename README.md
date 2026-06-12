@@ -472,6 +472,7 @@ Detailed description of the skill's purpose.
 - [agentskills.me](https://agentskills.me/) - Marketplace offering developer revenue sharing
 - [skills.rest](https://skills.rest/) - Marketplace with Skill rating system
 - [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators; covers YouTube scripting, sponsorship analysis, content repurposing, and audience growth
 
 
 ## Supporting Tools
