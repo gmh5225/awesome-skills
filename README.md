@@ -413,7 +413,7 @@ Detailed description of the skill's purpose.
 | [vercel-deployment](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/vercel-deployment) | Vercel deployment and edge functions |
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) search, lookup, extraction, monitoring, and MCP tools |
 | [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | Hermes-native plugin for X (Twitter) search, posting, monitoring, DMs, and automation |
-| [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin and npm package for X (Twitter) search, tweet and reply posting, DMs, media, monitoring, webhooks, and MCP tools |
+| [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin and npm package for X (Twitter) search, tweet and reply posting, DMs, media, monitoring, webhooks, and MCP tools |
 
 ### Web Performance & SEO
 
