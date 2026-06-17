@@ -414,6 +414,7 @@ Detailed description of the skill's purpose.
 | [vercel-deployment](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/vercel-deployment) | Vercel deployment and edge functions |
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) search, lookup, extraction, monitoring, and MCP tools |
 | [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | Hermes-native plugin for X (Twitter) search, posting, monitoring, DMs, and automation |
+| [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin and npm package for X (Twitter) search, tweet and reply posting, DMs, media, monitoring, webhooks, and MCP tools |
 
 ### Web Performance & SEO
 
@@ -463,6 +464,7 @@ Detailed description of the skill's purpose.
 | [memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) | Design memory architectures |
 
 
+| [agent-self-audit](https://github.com/Xxt-XN/agent-self-audit) | Self-evolving agent health check. 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap. Cross-platform: Claude Code/Codex CLI/Cursor/Windsurf/Gemini CLI. |
 ## Skills Marketplaces
 
 - [Learn Skills](https://www.learn-skills.dev/) - Curated high-quality AI Agent Skills. Search, install, copy and share.
@@ -472,6 +474,7 @@ Detailed description of the skill's purpose.
 - [agentskills.me](https://agentskills.me/) - Marketplace offering developer revenue sharing
 - [skills.rest](https://skills.rest/) - Marketplace with Skill rating system
 - [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators; covers YouTube scripting, sponsorship analysis, content repurposing, and audience growth
 
 
 ## Supporting Tools
