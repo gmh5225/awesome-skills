@@ -381,6 +381,7 @@ Detailed description of the skill's purpose.
 | [copy-editing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing) | Seven-sweeps copy editing framework |
 | [competitor-alternatives](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-alternatives) | Competitor comparison and alternative pages |
 | [free-tool-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tool-strategy) | Engineering-as-marketing tools and calculators |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads with live MCP data integration |
 
 ### AI Agents & LLM Development
 
