@@ -191,6 +191,7 @@ Detailed description of the skill's purpose.
 | [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) | **565+ Clawdbot skills**: web dev, DevOps, AI/LLMs, marketing, productivity, media, health, smart home |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired Claude Code guidelines: think before coding, simplicity first, surgical changes |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
+| [taisly/agent](https://github.com/taisly/agent) | Taisly Agent Kit: Codex plugin, Agent Skill, CLI, and MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook |
 | [unitedideas/bringyour-mcp](https://github.com/unitedideas/bringyour-mcp) | Public Bring Your AI Codex skill, subagent, and GitHub Action examples for auditing Claude Code to Codex migration output while keeping private harness files local |
 | [ggsq003-png/low-frequency-thread-monitor](https://github.com/ggsq003-png/low-frequency-thread-monitor) | Codex skill for non-Goal controller windows: ETA-aware low-frequency monitoring of background worker/review threads while reducing context pollution and quota waste |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
