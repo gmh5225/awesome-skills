@@ -499,6 +499,7 @@ Detailed description of the skill's purpose.
 - [Open Design](https://github.com/nexu-io/open-design) - Local-first open design loop (Next.js + daemon): auto-detects coding-agent CLIs on PATH and drives artifact-first workflows with **31** composable `SKILL.md` bundles, **72** brand-grade `DESIGN.md` systems, discovery forms, sandboxed preview, multi-format export; OpenAI-compatible BYOK proxy when no CLI — Apache-2.0
 - [skillreaper](https://github.com/thousandflowers/skillreaper) - CLI that reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static binary, Homebrew + npm, MIT.
 - [RemoteOpenClaw MCP](https://github.com/aidevelopers2/remoteopenclaw-mcp) - Terminal tool to search 13,870+ MCP servers, 4,384+ skills, and plugins from the CLI or an agent, no API key
+- [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS that packages agents and skills, then routes them across Claude Code, Codex, Gemini CLI, Cursor, and MCP with governed memory and verification receipts
 
 ## Content Humanization
 
