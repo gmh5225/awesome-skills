@@ -192,6 +192,8 @@ Detailed description of the skill's purpose.
 | [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) | **565+ Clawdbot skills**: web dev, DevOps, AI/LLMs, marketing, productivity, media, health, smart home |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired Claude Code guidelines: think before coding, simplicity first, surgical changes |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
+| [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) | Run AI image, video, music, audio, and LLM model API jobs from Claude Code, Codex, Gemini CLI, and other agents |
+| [taisly/agent](https://github.com/taisly/agent) | Taisly Agent Kit: Codex plugin, Agent Skill, CLI, and MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook |
 | [unitedideas/bringyour-mcp](https://github.com/unitedideas/bringyour-mcp) | Public Bring Your AI Codex skill, subagent, and GitHub Action examples for auditing Claude Code to Codex migration output while keeping private harness files local |
 | [ggsq003-png/low-frequency-thread-monitor](https://github.com/ggsq003-png/low-frequency-thread-monitor) | Codex skill for non-Goal controller windows: ETA-aware low-frequency monitoring of background worker/review threads while reducing context pollution and quota waste |
 | [huggingface/skills](https://github.com/huggingface/skills) | HuggingFace skills (compatible with Claude, Codex, Gemini) |
@@ -231,7 +233,9 @@ Detailed description of the skill's purpose.
 | [himself65/finance-skills](https://github.com/himself65/finance-skills) | **Finance Skills**: financial analysis and trading — options payoff charts, stock correlation/pair-trading, yfinance data (OHLCV, statements, options, dividends); read-only Discord/Telegram/Twitter research; generative-ui for Claude.ai; educational use only |
 | [openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) | **OpenAccountants**: 371 tax classification skills across 134 countries — VAT/GST, income tax, social contributions; bank statement classifier with conservative defaults; Schedule C, TA24, BAS, and more |
 | [star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills) | **Day1Global**: investment analysis skills (US stocks, macro, crypto) — flagship `tech-earnings-deepdive`: 16 modules, 6 philosophy lenses, multi-method valuation, variant view, anti-bias & pre-mortem, actionable decisions; tiered evidence; synergistic skills (e.g. value, sentiment, liquidity); research only, not investment advice |
+| [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) | **AgentServices**: 52 paid x402 API endpoints for AI agents — crypto prices, DeFi yields, market intelligence, on-chain analytics, LLM inference, portfolio analysis, cross-DEX arbitrage; MCP + LangChain + CrewAI + ElizaOS integrations; USDC on Base |
 | [longbridge/skills](https://github.com/longbridge/skills) | **Longbridge**: Agent skills for Longbridge Securities — real-time quotes, charts, fundamentals, portfolio, valuation for HK/US/A-share/SG markets; 125+ skills; trilingual (Simplified Chinese / Traditional Chinese / English) |
+| [redamancy231-create/claude-skills](https://github.com/redamancy231-create/claude-skills) | **Claude Skills**: 3 skills (session-end, write-claude-md, kill-test-first) using unified router-pattern design with progressive disclosure, validated through multi-model independent review |
 
 ### Document Processing
 
@@ -247,6 +251,7 @@ Detailed description of the skill's purpose.
 | Skill | Description |
 |-------|-------------|
 | [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace/tree/master/skills/agenttrace-session-audit) | Audit local AI coding agent sessions for token/cost usage, tool failures, latency, anomalies, health, diffs, and CI gates |
+| [ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow) | Reconstructs AI coding-agent workflows from local ax sessions, commits, skills, and tool traces |
 | [aws-skills](https://github.com/zxkane/aws-skills) | AWS development with CDK best practices |
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
 | [EchoCoding](https://github.com/launsion-boop/EchoCoding) | Voice-enabled audio layer for coding agents with hook-triggered SFX, ambient soundscapes, and cloud TTS/ASR `say`/`ask`/`listen` pipes; works with Claude Code, Cursor/Windsurf, Codex CLI, and Gemini CLI |
@@ -382,6 +387,7 @@ Detailed description of the skill's purpose.
 | [copy-editing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copy-editing) | Seven-sweeps copy editing framework |
 | [competitor-alternatives](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-alternatives) | Competitor comparison and alternative pages |
 | [free-tool-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tool-strategy) | Engineering-as-marketing tools and calculators |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads with live MCP data integration |
 
 ### AI Agents & LLM Development
 
@@ -476,6 +482,7 @@ Detailed description of the skill's purpose.
 - [skills.rest](https://skills.rest/) - Marketplace with Skill rating system
 - [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
 - [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators; covers YouTube scripting, sponsorship analysis, content repurposing, and audience growth
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Directory of AI agent skills, plugins, and MCP servers for Claude Code, OpenClaw, Hermes, and Codex
 
 
 ## Supporting Tools
@@ -490,7 +497,11 @@ Detailed description of the skill's purpose.
 
 
 - [caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and auto-generates agent skills, CLAUDE.md, .cursor/rules/, and AGENTS.md across Claude Code, Cursor, GitHub Copilot, and OpenAI Codex. Scores config quality and keeps docs in sync.
+- [Cosmosmith](https://github.com/devnomad-byte/cosmosmith) - Multi-agent workflow initializer that generates `AGENTS.md`, `task.md`, proposal/design templates, and adapters for Claude Code, Cursor, GitHub Copilot, OpenCode, and Trae via `npx cosmosmith@latest init --all`.
 - [Open Design](https://github.com/nexu-io/open-design) - Local-first open design loop (Next.js + daemon): auto-detects coding-agent CLIs on PATH and drives artifact-first workflows with **31** composable `SKILL.md` bundles, **72** brand-grade `DESIGN.md` systems, discovery forms, sandboxed preview, multi-format export; OpenAI-compatible BYOK proxy when no CLI — Apache-2.0
+- [skillreaper](https://github.com/thousandflowers/skillreaper) - CLI that reads real session transcripts to find skills, MCP servers, and agents that were loaded but never fired, then safely quarantines them. Supports Claude Code, Codex, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, single static binary, Homebrew + npm, MIT.
+- [RemoteOpenClaw MCP](https://github.com/aidevelopers2/remoteopenclaw-mcp) - Terminal tool to search 13,870+ MCP servers, 4,384+ skills, and plugins from the CLI or an agent, no API key
+- [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS that packages agents and skills, then routes them across Claude Code, Codex, Gemini CLI, Cursor, and MCP with governed memory and verification receipts
 
 ## Content Humanization
 
