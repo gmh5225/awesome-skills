@@ -234,6 +234,7 @@ Detailed description of the skill's purpose.
 | [star23/Day1Global-Skills](https://github.com/star23/Day1Global-Skills) | **Day1Global**: investment analysis skills (US stocks, macro, crypto) — flagship `tech-earnings-deepdive`: 16 modules, 6 philosophy lenses, multi-method valuation, variant view, anti-bias & pre-mortem, actionable decisions; tiered evidence; synergistic skills (e.g. value, sentiment, liquidity); research only, not investment advice |
 | [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) | **AgentServices**: 52 paid x402 API endpoints for AI agents — crypto prices, DeFi yields, market intelligence, on-chain analytics, LLM inference, portfolio analysis, cross-DEX arbitrage; MCP + LangChain + CrewAI + ElizaOS integrations; USDC on Base |
 | [longbridge/skills](https://github.com/longbridge/skills) | **Longbridge**: Agent skills for Longbridge Securities — real-time quotes, charts, fundamentals, portfolio, valuation for HK/US/A-share/SG markets; 125+ skills; trilingual (Simplified Chinese / Traditional Chinese / English) |
+| [redamancy231-create/claude-skills](https://github.com/redamancy231-create/claude-skills) | **Claude Skills**: 3 skills (session-end, write-claude-md, kill-test-first) using unified router-pattern design with progressive disclosure, validated through multi-model independent review |
 
 ### Document Processing
 
