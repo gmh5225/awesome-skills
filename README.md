@@ -446,6 +446,7 @@ Detailed description of the skill's purpose.
 | Skill | Description |
 |-------|-------------|
 | [micro-saas-launcher](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/micro-saas-launcher) | Launch small SaaS products fast |
+| [idea-hunt](https://github.com/ANVEAI/idea-hunt-skill) | Find and validate painful workflows AI can replace before building |
 | [browser-extension-builder](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/browser-extension-builder) | Chrome/Firefox extensions with Manifest v3 |
 | [telegram-bot-builder](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/telegram-bot-builder) | Telegram bots and Mini Apps |
 | [viral-generator-builder](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/viral-generator-builder) | Building shareable viral generators |
