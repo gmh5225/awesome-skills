@@ -175,6 +175,7 @@ Detailed description of the skill's purpose.
 |------------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official Anthropic directory of high-quality Claude Code plugins (skills, MCP, commands) |
+| [0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly) | Deterministic Software Graph, MCP server, and Agent Skills for architecture summaries, route tracing, dependency analysis, configuration usage, and impact analysis |
 | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) | **47 expert-level skills**: frameworks, templates, code examples for leadership, engineering, product, marketing, sales, data, HR |
 | [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) | Secure coding skill: prevent IDOR, XSS, SSRF, SQLi, auth issues; framework- and cloud-aware |
 | [bnb-chain/bnbchain-skills](https://github.com/bnb-chain/bnbchain-skills) | BNB Chain MCP skill: install/use bnbchain-mcp for blocks, txs, contracts, tokens, NFTs, wallet, ERC-8004, Greenfield; Cursor/Claude |
