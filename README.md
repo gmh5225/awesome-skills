@@ -209,6 +209,7 @@ Detailed description of the skill's purpose.
 | [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | WebGPU + Three.js TSL skill: shaders, GPU compute, post-processing, WGSL integration |
 | [gmh5225/android-reverse-engineering-skill](https://github.com/gmh5225/android-reverse-engineering-skill) | Android reverse engineering: decompile APK/XAPK/JAR/AAR, extract HTTP APIs, trace call flows |
 | [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) | Design engineering for Claude Code: craft, memory, and enforcement for consistent UI |
+| [UIZZE](https://uizze.com) | Free anti-UI-slop skill: use 800,000+ real web and iOS screens to force product-specific UI decisions and a hard pre-ship finish gate |
 | [ognjengt/founder-skills](https://github.com/ognjengt/founder-skills) | **20+ skills for founders**: PRD, CRO, viral hooks, GTM, X/LinkedIn writing, outreach, pricing, Product Hunt launch |
 | [OpenZeppelin/openzeppelin-skills](https://github.com/OpenZeppelin/openzeppelin-skills) | Secure smart contracts with OpenZeppelin: develop, setup (Solidity/Cairo/Stylus/Stellar), upgrade; optional MCP for generation |
 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | **100+ PM skills**: discovery, strategy, execution, launch, growth across 8 plugins; PRD, OKRs, GTM, North Star; Claude Code/Cowork/Cursor |
