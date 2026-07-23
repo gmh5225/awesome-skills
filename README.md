@@ -278,6 +278,7 @@ Detailed description of the skill's purpose.
 | [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) | Safe read-only SQL queries against PostgreSQL |
 | [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) | Autonomous multi-step research using Gemini |
 | [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) | Trace back to find original error triggers |
+| [Formo Analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query [Formo](https://formo.so) product and onchain analytics through MCP, CLI, or REST |
 
 ### Integration & Automation
 
