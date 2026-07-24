@@ -472,6 +472,7 @@ Detailed description of the skill's purpose.
 | [context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) | Design compression strategies for long sessions |
 | [multi-agent-patterns](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns) | Multi-agent architectures |
 | [memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) | Design memory architectures |
+| [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) | Build and maintain indexed Markdown knowledge bases with deterministic CLI workflows |
 
 
 | [agent-self-audit](https://github.com/Xxt-XN/agent-self-audit) | Self-evolving agent health check. 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap. Cross-platform: Claude Code/Codex CLI/Cursor/Windsurf/Gemini CLI. |
