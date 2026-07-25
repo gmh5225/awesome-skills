@@ -406,6 +406,7 @@ Detailed description of the skill's purpose.
 | [autonomous-agents](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/autonomous-agents) | AI systems with ReAct and reflection patterns |
 | [harrymunro/nelson](https://github.com/harrymunro/nelson) | Claude Code multi-agent coordination skill: six-step mission framework (sailing orders → stand down), risk-tiered quality gates, damage-control recovery, and auditable captain's logs across single-session, subagents, and agent-team modes |
 | [loki-mode](https://github.com/asklokesh/claudeskill-loki-mode) | Multi-agent autonomous startup system |
+| [agent-self-audit](https://github.com/Xxt-XN/agent-self-audit) | Self-evolving agent health check. 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap. Cross-platform: Claude Code/Codex CLI/Cursor/Windsurf/Gemini CLI. |
 
 ### Integrations & APIs
 
@@ -472,10 +473,8 @@ Detailed description of the skill's purpose.
 | [context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression) | Design compression strategies for long sessions |
 | [multi-agent-patterns](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns) | Multi-agent architectures |
 | [memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) | Design memory architectures |
-| [wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) | Build and maintain indexed Markdown knowledge bases with deterministic CLI workflows |
+| [plasma-ai/wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) | **Plasma AI**: indexed Markdown knowledge bases following Karpathy's LLM Wiki pattern — the deterministic `plasma-wiki` CLI generates `_index.md` trees and cross-links, lints structure, and gives agents scoped `map`/`search`/`read` so only task-relevant pages enter context |
 
-
-| [agent-self-audit](https://github.com/Xxt-XN/agent-self-audit) | Self-evolving agent health check. 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap. Cross-platform: Claude Code/Codex CLI/Cursor/Windsurf/Gemini CLI. |
 ## Skills Marketplaces
 
 - [Learn Skills](https://www.learn-skills.dev/) - Curated high-quality AI Agent Skills. Search, install, copy and share.
