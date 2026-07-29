@@ -263,6 +263,7 @@ Detailed description of the skill's purpose.
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) | Web fuzzer integration for vulnerability analysis |
 | [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) | Move language code quality checklist |
+| [overhaul-ui](https://github.com/ShadowFull12/overhaul-ui) | Frontend design skill — 28 commands, WCAG 2.2/OKLCH/motion scripts, detects and defers to installed specialist design skills |
 | [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) | Pairwise Independent Combinatorial Testing |
 | [claude-starter](https://github.com/raintree-technology/claude-starter) | Production-ready Claude Code configuration template |
 | [cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill/tree/main/skill/cloudflare) | Cloudflare platform reference docs |
