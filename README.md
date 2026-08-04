@@ -238,6 +238,7 @@ Detailed description of the skill's purpose.
 | [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) | **AgentServices**: 52 paid x402 API endpoints for AI agents — crypto prices, DeFi yields, market intelligence, on-chain analytics, LLM inference, portfolio analysis, cross-DEX arbitrage; MCP + LangChain + CrewAI + ElizaOS integrations; USDC on Base |
 | [longbridge/skills](https://github.com/longbridge/skills) | **Longbridge**: Agent skills for Longbridge Securities — real-time quotes, charts, fundamentals, portfolio, valuation for HK/US/A-share/SG markets; 125+ skills; trilingual (Simplified Chinese / Traditional Chinese / English) |
 | [redamancy231-create/claude-skills](https://github.com/redamancy231-create/claude-skills) | **Claude Skills**: 3 skills (session-end, write-claude-md, kill-test-first) using unified router-pattern design with progressive disclosure, validated through multi-model independent review |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | **67 MIT-licensed skills** for Claude Code and Codex covering agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows |
 | [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) | **18 go-to-market skills** for solo technical founders: positioning, first users, launch, pricing, founder-led sales; grounded in Adam Frankl & Jakub Czakon |
 
 ### Document Processing
