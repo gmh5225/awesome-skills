@@ -240,6 +240,7 @@ Detailed description of the skill's purpose.
 | [redamancy231-create/claude-skills](https://github.com/redamancy231-create/claude-skills) | **Claude Skills**: 3 skills (session-end, write-claude-md, kill-test-first) using unified router-pattern design with progressive disclosure, validated through multi-model independent review |
 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | **67 MIT-licensed skills** for Claude Code and Codex covering agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows |
 | [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) | **18 go-to-market skills** for solo technical founders: positioning, first users, launch, pricing, founder-led sales; grounded in Adam Frankl & Jakub Czakon |
+| [IvoryCanvas/qamap](https://github.com/IvoryCanvas/qamap) | Local zero-LLM PR QA engine and Agent Skill that maps commit and diff evidence to affected behavior, QA scenarios, and existing repository validation commands without uploading source |
 
 ### Document Processing
 
