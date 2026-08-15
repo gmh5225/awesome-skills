@@ -503,6 +503,7 @@ Detailed description of the skill's purpose.
 - [skillmaster](https://github.com/davidyangcool/agent-skill) - Manage, install, and use Agent Skills via terminal
 - [Agent Skills Manager](https://github.com/umutbozdag/agent-skills-manager) - Standalone `manage-skills` resource for terminal-first skill lifecycle management (discover/create/edit/toggle/copy/move/delete) across 11 tools, plus a Next.js dashboard for search, filters, bulk actions, and cross-tool installs
 - [vercel-labs/add-skill](https://github.com/vercel-labs/add-skill) - `npx skills` CLI tool for quick installation
+- [lean-agent-skills](https://github.com/tmolavi/lean-agent-skills) - Token-frugal skill installer: curates 45+ official skills (Anthropic & OpenAI catalogs, karpathy-guidelines, skill-optimizer) and installs them in one command for Codex, Claude Code, Antigravity, Cursor and Copilot, with uninstall tracking and a token-frugal AGENTS.md generator
 
 
 - [caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and auto-generates agent skills, CLAUDE.md, .cursor/rules/, and AGENTS.md across Claude Code, Cursor, GitHub Copilot, and OpenAI Codex. Scores config quality and keeps docs in sync.
