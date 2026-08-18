@@ -286,6 +286,7 @@ Detailed description of the skill's purpose.
 | [deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research) | Autonomous multi-step research using Gemini |
 | [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) | Trace back to find original error triggers |
 | [Formo Analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query [Formo](https://formo.so) product and onchain analytics through MCP, CLI, or REST |
+| [simple-man](https://github.com/Maksim-Burtsev/simple-man) | Strips praise, recaps and filler from agent answers while keeping every fact you act on; findings carry location and fix, tutorials stay long-form. Benchmarked on 1,793 preregistered live calls, raw records committed |
 
 ### Integration & Automation
 
