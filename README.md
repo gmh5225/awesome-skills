@@ -193,6 +193,7 @@ Detailed description of the skill's purpose.
 | [VoltAgent/awesome-clawdbot-skills](https://github.com/VoltAgent/awesome-clawdbot-skills) | **565+ Clawdbot skills**: web dev, DevOps, AI/LLMs, marketing, productivity, media, health, smart home |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Karpathy-inspired Claude Code guidelines: think before coding, simplicity first, surgical changes |
 | [openai/skills](https://github.com/openai/skills) | Official OpenAI Codex skills catalog |
+| [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills) | **14 video-production skills** for planning, editing, generation, captions, QA, and assembly through editable timelines; Codex, Claude Code, and MCP |
 | [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) | Run AI image, video, music, audio, and LLM model API jobs from Claude Code, Codex, Gemini CLI, and other agents |
 | [talivia-group/agent](https://github.com/talivia-group/agent) | Talivia Agent Kit: Codex plugin, Agent Skill, CLI, and MCP server for installing and verifying revenue-first website analytics and connecting traffic to payment attribution |
 | [taisly/agent](https://github.com/taisly/agent) | Taisly Agent Kit: Codex plugin, Agent Skill, CLI, and MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook |
