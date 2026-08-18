@@ -414,6 +414,7 @@ Detailed description of the skill's purpose.
 | [harrymunro/nelson](https://github.com/harrymunro/nelson) | Claude Code multi-agent coordination skill: six-step mission framework (sailing orders → stand down), risk-tiered quality gates, damage-control recovery, and auditable captain's logs across single-session, subagents, and agent-team modes |
 | [loki-mode](https://github.com/asklokesh/claudeskill-loki-mode) | Multi-agent autonomous startup system |
 | [agent-self-audit](https://github.com/Xxt-XN/agent-self-audit) | Self-evolving agent health check. 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap. Cross-platform: Claude Code/Codex CLI/Cursor/Windsurf/Gemini CLI. |
+| [odai](https://github.com/orziz/odai/tree/main/skills/odai) | General-purpose agent governance for goal and evidence alignment, responsibility routing, authorization and safety boundaries, and verified delivery |
 
 ### Integrations & APIs
 
