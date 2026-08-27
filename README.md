@@ -299,6 +299,7 @@ Detailed description of the skill's purpose.
 | [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Manage Linear issues, projects, and teams |
 | [n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n workflow automation skills |
 | [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
+| [SandBase](https://github.com/sandbaseai/cli/tree/main/skills/sandbase) | Access unified model and tool APIs through a CLI-managed MCP bridge |
 | [Skyvern Browser Automation](https://github.com/Skyvern-AI/skyvern/tree/main/skyvern/cli/skills/skyvern) | AI browser automation for dynamic pages, forms, and data extraction |
 | [Spotify Skill](https://github.com/fabioc-aloha/spotify-skill) | Spotify API integration |
 | [linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) | Manage Linear issues, projects, and teams |
