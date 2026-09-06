@@ -276,6 +276,7 @@ Detailed description of the skill's purpose.
 | [recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) | Framework for designing composable recommendation pipelines (Source → Hydrator → Filter → Scorer → Selector → SideEffect) based on xAI's open-sourced X For You algorithm; includes scaffolds for Strapi, Go, and Python/FastAPI |
 | [keelson](https://github.com/innovestrum/keelson) | Tracker-agnostic, issue-driven agentic workflow pack (adopt-keelson + tune-gates); agents automate mechanical tasks and escalate when a change touches design, plan, or strategy |
 | [learning-retrospective](https://github.com/Yingqi-Han/learning-retrospective-skill) | Breaks agent retry loops and preserves verified lessons; optional retry-loop detector hooks for Claude Code and Codex |
+| [cat-plan](https://github.com/fengzizz/associate-cat/tree/main/skills/cat-plan) | An easy-to-use AI planning skill that combines in-depth analysis with fast convergence on a clear plan—even for large, complex codebases. |
 
 ### Data & Analysis
 
