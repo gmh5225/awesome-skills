@@ -498,6 +498,7 @@ Detailed description of the skill's purpose.
 - [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
 - [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators; covers YouTube scripting, sponsorship analysis, content repurposing, and audience growth
 - [RemoteOpenClaw](https://remoteopenclaw.com) - Directory of AI agent skills, plugins, and MCP servers for Claude Code, OpenClaw, Hermes, and Codex
+- [aaaa.fyi](https://aaaa.fyi) - Searchable directory of 40,000+ agent skills, MCP servers, plugins and subagents with live install stats from GitHub, npm and PyPI
 
 
 ## Supporting Tools
