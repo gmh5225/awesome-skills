@@ -264,6 +264,7 @@ Detailed description of the skill's purpose.
 | [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) | D3 charts and interactive data visualizations |
 | [EchoCoding](https://github.com/launsion-boop/EchoCoding) | Voice-enabled audio layer for coding agents with hook-triggered SFX, ambient soundscapes, and cloud TTS/ASR `say`/`ask`/`listen` pipes; works with Claude Code, Cursor/Windsurf, Codex CLI, and Gemini CLI |
 | [Playwright Automation](https://github.com/lackeyjb/playwright-skill) | Browser automation for testing web apps |
+| [rhost](https://github.com/starfield17/rhost/tree/main/skills/rhost) | Runs ordinary commands on SSH-reachable Linux hosts with local-like process semantics using the rhost CLI |
 | [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interact with iOS Simulator for testing |
 | [App Store Preflight](https://github.com/truongduy2611/app-store-preflight-skills) | Pre-submission checks for iOS/macOS App Store: scans Xcode project, code, and metadata against 100+ guideline index and app-type checklists; integrates with **asc** CLI; rules for metadata, subscriptions/IAP, privacy (e.g. PrivacyInfo.xcprivacy), design, entitlements; autofix + validate workflow |
 | [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift Concurrency Migration guide |
