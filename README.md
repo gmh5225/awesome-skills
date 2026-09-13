@@ -486,6 +486,7 @@ Detailed description of the skill's purpose.
 | [multi-agent-patterns](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns) | Multi-agent architectures |
 | [memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems) | Design memory architectures |
 | [plasma-ai/wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) | **Plasma AI**: indexed Markdown knowledge bases following Karpathy's LLM Wiki pattern — the deterministic `plasma-wiki` CLI generates `_index.md` trees and cross-links, lints structure, and gives agents scoped `map`/`search`/`read` so only task-relevant pages enter context |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills` |
 
 ## Skills Marketplaces
 
