@@ -83,6 +83,7 @@ Detailed description of the skill's purpose.
 - [Coze](https://www.coze.cn/open/docs/cozespace/what_is_skill) - Skills Usage Guide
 - [Cherry Studio](https://mp.weixin.qq.com/s/nqBMW9QaTcagohzy2gXaZA) - Agent Skills Best Practices
 - [Alma](https://alma.now/docs/zh/features/skills.html) - Skills Usage Guide
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 
 
 ## Official Skills
