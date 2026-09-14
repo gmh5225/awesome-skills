@@ -244,6 +244,7 @@ Detailed description of the skill's purpose.
 | [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder) | **18 go-to-market skills** for solo technical founders: positioning, first users, launch, pricing, founder-led sales; grounded in Adam Frankl & Jakub Czakon |
 | [IvoryCanvas/qamap](https://github.com/IvoryCanvas/qamap) | Local zero-LLM PR QA engine and Agent Skill that maps commit and diff evidence to affected behavior, QA scenarios, and existing repository validation commands without uploading source |
 | [apexbymanish/claude-ai-agents-ios](https://github.com/apexbymanish/claude-ai-agents-ios) | iOS/Swift/Xcode subagents & skills: architecture, testing, memory/performance, security, App Store readiness, Tuist project generation; evidence-tiered claim verification |
+| [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | **7 agent task-management skills**: Kanban/task-ledger operations, durable Markdown wiki Records, workflow Records, provenance-bound artifacts, project inspection, implementation-sized task planning, and single-task execution loops; powers YYLO CLI/YYLO Ledger agent workflows; Claude Code/Codex/Pi; installable via `npx skills add yylo-dev/yylo-skills` |
 
 ### Document Processing
 
