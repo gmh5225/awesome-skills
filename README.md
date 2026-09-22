@@ -323,6 +323,7 @@ Detailed description of the skill's purpose.
 | [test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) | TDD implementation workflow |
 | [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) | Git worktrees with smart directory selection |
 | [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | Complete development work workflow |
+| [agent-sessions](https://github.com/prajwalgajakesari/agent-sessions) | Share coding-agent sessions with teammates through git: push a handoff summary and redacted transcript, pull them into Claude Code, Codex or OpenCode |
 
 ### Security & Systems
 
