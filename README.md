@@ -405,6 +405,7 @@ Detailed description of the skill's purpose.
 | [competitor-alternatives](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-alternatives) | Competitor comparison and alternative pages |
 | [free-tool-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tool-strategy) | Engineering-as-marketing tools and calculators |
 | [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads with live MCP data integration |
+| [reddit-rules-first](https://github.com/amflimited/threadfox-lite/tree/main/skills/reddit-rules-first) | Post to Reddit within community rules: rules first, one post per community, disclose affiliation, check what stayed up |
 
 ### AI Agents & LLM Development
 
