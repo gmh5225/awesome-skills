@@ -175,6 +175,7 @@ Detailed description of the skill's purpose.
 | Repository | Description |
 |------------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
+| [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en) | **5 productivity skills** (MIT): meeting notes, code review checklist, deep research framework, tech writing proofread, git commit messages |
 | [vostride/agent-qa](https://github.com/vostride/agent-qa) | **3 application-QA skills** for authoring natural-language web and mobile tests, debugging failing flows, and triaging run evidence; includes a CLI and MCP server |
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official Anthropic directory of high-quality Claude Code plugins (skills, MCP, commands) |
 | [0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly) | Deterministic Software Graph, MCP server, and Agent Skills for architecture summaries, route tracing, dependency analysis, configuration usage, and impact analysis |
