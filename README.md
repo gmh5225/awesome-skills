@@ -454,6 +454,7 @@ Detailed description of the skill's purpose.
 | [internationalizing-websites](https://github.com/nicepkg/awesomeAgentskills/tree/main/internationalizing-websites) | Multi-language support with next-intl |
 | [deploying-to-production](https://github.com/nicepkg/awesomeAgentskills/tree/main/deploying-to-production) | GitHub + Vercel deployment automation |
 | [toprank](https://github.com/nowork-studio/toprank) | 9 SEO and Google Ads skills for Claude Code: auditing and optimization |
+| [lognorm](https://github.com/lognorm/lognorm-mcp/tree/main/skills/lognorm) | Work a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, fixes, content, AI-answer tracking |
 
 ### Framework Documentation
 
