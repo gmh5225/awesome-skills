@@ -617,6 +617,7 @@ Detailed description of the skill's purpose.
 - [Improving Frontend Design Through Skills](https://claude.com/blog/improving-frontend-design-through-skills)
 - [How to Create Skills: Key Steps, Limitations, and Examples](https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples)
 - [Nick Nisi: Claude Skills](https://nicknisi.com/posts/claude-skills/) - Getting started guide
+- [The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents](https://ssrn.com/abstract=7186738) - Survey with a chapter on agent skills: how skills are acquired, retrieved and composed, the skill ecosystem, and supply-chain risks
 
 
 ## Data Science & AI Learning Roadmaps
