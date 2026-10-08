@@ -412,6 +412,7 @@ Detailed description of the skill's purpose.
 | [free-tool-strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/free-tool-strategy) | Engineering-as-marketing tools and calculators |
 | [NotFair](https://github.com/nowork-studio/NotFair) | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads with live MCP data integration |
 | [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) | Data-backed email marketing skill: automation flows, deliverability triage, copy de-slopping, AI email design, ESP control via MCP with send-safety gates, compliance and 19 industry playbooks |
+| [bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) | Skills for drafting, scheduling, cross-posting and measuring social posts on 15 platforms through the BulkPublish MCP server |
 
 ### AI Agents & LLM Development
 
