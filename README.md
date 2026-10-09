@@ -384,6 +384,7 @@ Detailed description of the skill's purpose.
 | [Claude Bug Bounty](https://github.com/shuvonsec/claude-bug-bounty) | Claude Code plugin for **authorized** bug bounty: recon → hunt → triage/validate → report; 7 skill domains, 8 slash commands, 5 agents; Web2 (20+ vuln classes, bypass tables, scanners) + Web3 (10 DeFi classes, Foundry PoC stubs); H1/Bugcrowd/Intigriti/Immunefi templates — scope-only, legal disclaimer applies |
 | [Web3 Bug Bounty AI Skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | Smart contract bounty knowledge for Claude Code / Cursor / any file-based agent: 10 bug classes (Immunefi/DeFiHackLabs–informed), target scoring, grep arsenal, 18 Foundry PoC templates, triage + Immunefi report examples, methodology + case studies; optional MCP (Slither, Aderyn, SWC) — **authorized programs only** |
 | [Tx2Poc](https://github.com/Z-Bra0/Tx2Poc) | Agent skill to turn an EVM transaction ID into a Foundry fork PoC: trace fetch, role analysis, attack write-up, PoC authoring, and iterative verification |
+| [reverse-engineer-anything](https://github.com/morluto/rea) | REA workflow skill for agent-assisted analysis of shipped binaries, JavaScript/Electron apps, and .NET assemblies, with evidence provenance; uses the local REA CLI/MCP and bring-your-own native providers |
 
 ### Marketing & Growth
 
