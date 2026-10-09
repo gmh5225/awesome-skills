@@ -286,6 +286,7 @@ Detailed description of the skill's purpose.
 | [Associate Cat](https://github.com/fengzizz/associate-cat) | An easy-to-use AI coding workflow centered on in-depth analysis and fast convergence on clear plans—even for large, complex codebases. |
 | [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff/tree/main/skills/since-cutoff) | Finds which APIs of your pinned Python dependencies changed after the model's training cutoff (static diff, no model calls), shows where your code uses them, and writes short AGENTS.md / CLAUDE.md notes; also a CLI and MCP server |
 | [shipvela-publish](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) | Publish static websites through Shipvela OAuth/MCP with owner approval, status and logs; MIT client skill, requires a hosted-service account (free tier available) |
+| [bestax-skills](https://github.com/allxsmith/bestax/tree/main/skills) | Build React apps with Bestax on Bulma v1: forms, layouts, theming, icons, CSS size, and migration |
 
 
 ### Data & Analysis
