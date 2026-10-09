@@ -298,6 +298,7 @@ Detailed description of the skill's purpose.
 | [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) | Trace back to find original error triggers |
 | [Formo Analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query [Formo](https://formo.so) product and onchain analytics through MCP, CLI, or REST |
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man) | Strips praise, recaps and filler from agent answers while keeping every fact you act on; findings carry location and fix, tutorials stay long-form. Benchmarked on 1,793 preregistered live calls, raw records committed |
+| [equibles-research](https://github.com/daniel3303/stock-market-mcp-server/tree/master/skills/equibles-research) | Research US stocks through the [Equibles](https://equibles.com) MCP server: SEC filings, financial statements, earnings call transcripts, insider trades and 13F holdings, each figure cited to its source; works in Claude Code, Codex and other skill loaders; needs an Equibles account (free plan) |
 
 ### Integration & Automation
 
