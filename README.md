@@ -170,6 +170,7 @@ Detailed description of the skill's purpose.
 
 ### Skill Collections
 
+| [ReplyNodes URL to Markdown](https://github.com/replynodes/replynodes-agent-skills/tree/main/skills/url-to-markdown) | Fetch public webpages as clean Markdown for agent context. See the [Markdown API documentation](https://replynodes.com/markdown-api/). |
 **[Learn Skills](https://www.learn-skills.dev/)** — Curated high-quality AI Agent Skills. Search, install, copy and share.
 
 | Repository | Description |
