@@ -538,6 +538,7 @@ Detailed description of the skill's purpose.
 - [RemoteOpenClaw MCP](https://github.com/aidevelopers2/remoteopenclaw-mcp) - Terminal tool to search 13,870+ MCP servers, 4,384+ skills, and plugins from the CLI or an agent, no API key
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS that packages agents and skills, then routes them across Claude Code, Codex, Gemini CLI, Cursor, and MCP with governed memory and verification receipts
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness, then replays it offline from the recorded bytes with no model called, or re-runs it from any chosen step on a different model with the conversation prefix held fixed. Works with Claude Code, Codex, the Agents SDK and the AI SDK. Node 20+, Apache-2.0
+- [drevon](https://github.com/csakash/drevon) - `npx drevon init` turns any directory into an AI workspace with one shared config, persistent cross-session memory, prompts and skills for Claude Code, Codex, Copilot, Cursor, Windsurf, Cline, Aider and Continue. MIT.
 
 ## Content Humanization
 
