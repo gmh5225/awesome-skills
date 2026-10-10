@@ -248,6 +248,7 @@ Detailed description of the skill's purpose.
 | [apexbymanish/claude-ai-agents-ios](https://github.com/apexbymanish/claude-ai-agents-ios) | iOS/Swift/Xcode subagents & skills: architecture, testing, memory/performance, security, App Store readiness, Tuist project generation; evidence-tiered claim verification |
 | [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) | **7 agent task-management skills**: Kanban/task-ledger operations, durable Markdown wiki Records, workflow Records, provenance-bound artifacts, project inspection, implementation-sized task planning, and single-task execution loops; powers YYLO CLI/YYLO Ledger agent workflows; Claude Code/Codex/Pi; installable via `npx skills add yylo-dev/yylo-skills` |
 | [proskillpacks/skills](https://github.com/proskillpacks/skills) | **Free agent skills** in plain SKILL.md format for store owners, freelancers and developers; work in any assistant that reads skills |
+| [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
 
 ### Document Processing
 
