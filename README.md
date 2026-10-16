@@ -462,6 +462,7 @@ Detailed description of the skill's purpose.
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X (Twitter) search, lookup, extraction, monitoring, and MCP tools |
 | [hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) | Hermes-native plugin for X (Twitter) search, posting, monitoring, DMs, and automation |
 | [tweetclaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin and npm package for X (Twitter) search, tweet and reply posting, DMs, media, monitoring, webhooks, and MCP tools |
+| [curlshot](https://github.com/SergiuPogor/curlshot-mcp/tree/main/skills/curlshot) | Screenshot public web pages or render HTML/Markdown to PNG, JPEG, WebP, PDF or scrolling video via the CurlShot API and hosted MCP server; needs an API key (free plan) |
 
 ### Web Performance & SEO
 
