@@ -251,6 +251,7 @@ Detailed description of the skill's purpose.
 | [proskillpacks/skills](https://github.com/proskillpacks/skills) | **Free agent skills** in plain SKILL.md format for store owners, freelancers and developers; work in any assistant that reads skills |
 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
 | [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | Chinese consumer coupon suite: takeout, ride-hailing/hotels, movie tickets and parcel shipping via one public API |
+| [KuudoAI/skills](https://github.com/KuudoAI/skills) | **22 Amazon seller and advertiser skills**: Sponsored Products/Brands audits, search-term mining, budget pacing, DSP and AMC, listings, product images, repricing, FBA inbound, profitability; built for Kuudo's hosted Amazon Ads and SP-API MCP servers, writes previewed for approval; PolyForm Shield 1.0.0 (source-available) |
 
 ### Document Processing
 
