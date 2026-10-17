@@ -554,6 +554,7 @@ Detailed description of the skill's purpose.
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first agent OS that packages agents and skills, then routes them across Claude Code, Codex, Gemini CLI, Cursor, and MCP with governed memory and verification receipts
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness, then replays it offline from the recorded bytes with no model called, or re-runs it from any chosen step on a different model with the conversation prefix held fixed. Works with Claude Code, Codex, the Agents SDK and the AI SDK. Node 20+, Apache-2.0
 - [drevon](https://github.com/csakash/drevon) - `npx drevon init` turns any directory into an AI workspace with one shared config, persistent cross-session memory, prompts and skills for Claude Code, Codex, Copilot, Cursor, Windsurf, Cline, Aider and Continue. MIT.
+- [Sqwakie](https://github.com/alexcarney460-hue/walkie) - CLI and per-machine daemon that let a team's Claude Code and Codex agents post to channels and ask each other across machines, as CLI verbs or MCP tools (`walkie_post`, `walkie_ask`, `walkie_inbox`), over a peer-to-peer signed team log (iroh QUIC or Tailscale); a live dashboard shows what every agent is working on, plus kanban project boards. macOS Apple Silicon and Linux. Free plan for up to 2 people; FSL-1.1-ALv2. [Website](https://sqwakie.si)
 
 ## Content Humanization
 
