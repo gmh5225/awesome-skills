@@ -330,6 +330,7 @@ Detailed description of the skill's purpose.
 | [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
 | [FlowHunt Skill](https://github.com/heyneuron/flowhunt-skill) | Automation discovery audit: 5-question workflow intake + Gmail/Calendar/Slack analysis to identify automation opportunities |
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Telegram messaging, chats and contacts from a personal account via the tlgr CLI, with JSON output |
+| [neverapply](https://github.com/kasovy/neverapply-mcp/tree/main/skills) | Skills for the [NeverApply](https://neverapply.co/features/mcp) job-search MCP server: find jobs, apply with your approval, track applications |
 
 ### Collaboration & Project Management
 
