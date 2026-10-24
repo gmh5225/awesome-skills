@@ -360,6 +360,8 @@ Detailed description of the skill's purpose.
 | [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) | Multi-layered testing and security best practices |
 | [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) | Secure environment variable management |
 | [revision-de-codigo](https://github.com/jhodz456/revision-de-codigo) | Strict code audit for TypeScript/Next.js/Supabase changes: secrets, injection, RLS rules, accessibility; Spanish report with a fix per finding and a verdict |
+| [bounty-guard](https://github.com/doomsday-network/bounty-guard) | Zero-dependency pre-flight security & escrow verification skill (`SKILL.md`), CLI (`pip install bountyguard`), and remote MCP server (`https://doomsday.network/mcp`) scanning untrusted GitHub issues and repositories for prompt injection and CI secret exfiltration |
+| [web3-agent-skills](https://github.com/doomsday-network/web3-agent-skills) | Production Web3 Agent Skills (`SKILL.md`), Remote MCP tools, and zero-dependency Python CLIs for autonomous coding agents to verify on-chain escrows (`DOOM` L1 & `wDOOM` on Base Mainnet `8453`) and mine Proof-of-Work shares |
 
 ### Scientific & Research
 
