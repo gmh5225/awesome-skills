@@ -577,6 +577,7 @@ Detailed description of the skill's purpose.
 - [stop-slop](https://github.com/hardikpandya/stop-slop) - Agent skill to strip AI tells from prose: banned phrases, structural clichés, sentence-level rules; reference phrase/structure lists and before/after examples; 5-dimension scoring rubric
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer Chinese version
 - [humanize-chinese](https://github.com/voidborne-d/humanize-chinese) - Chinese AI text detection + style rewriting; statistical 0-100 scorer (no API calls, pure Python, zero dependencies), genre-aware (academic / novel / general) with auto scene routing for long-form, and 7 humanization styles (casual / zhihu / xiaohongshu / wechat / academic / literary / weibo); covers academic AIGC reduction patterns for CNKI/VIP/Wanfang
+- [renhua](https://github.com/jack-reson8/renhua/tree/main/plugins/renhua/skills/renhua) - Writes Chinese social posts and product copy in a real person's voice and removes AI tells
 
 
 ## GitHub Copilot Instructions & Prompts
