@@ -172,6 +172,8 @@ Detailed description of the skill's purpose.
 
 **[Learn Skills](https://www.learn-skills.dev/)** — Curated high-quality AI Agent Skills. Search, install, copy and share.
 
+**[Use This Skill](https://usethisskill.com)** — Directory of 1,400+ agent skills with side-by-side proofs: each proven skill is run on the same brief with and without the skill, so you can see what it changes before installing.
+
 | Repository | Description |
 |------------|-------------|
 | [anthropics/skills](https://github.com/anthropics/skills) | Official Anthropic collection (document editing, data analysis) |
