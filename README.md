@@ -511,6 +511,7 @@ Detailed description of the skill's purpose.
 | [3d-web-experience](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/3d-web-experience) | Three.js, React Three Fiber, WebGL |
 | [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/interactive-portfolio) | Developer/designer portfolios |
 | [VishiATChoudhary/reels](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Spec-driven 9:16 story reels on Remotion, cut to the song's drop; powers [@hey_synapse](https://www.instagram.com/hey_synapse/) |
+| [sketchbook-style](https://github.com/Keith-CY/sketchbook-style) | Draw any object as an industrial-design sketchbook page in 4 looks (pen, marker, ink, bold+fine) with open image models run locally (Qwen-Image on ComfyUI, FLUX.2 klein, Z-Image); no API key; Apache 2.0 |
 
 ### Notion Skills
 
