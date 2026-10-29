@@ -437,6 +437,7 @@ Detailed description of the skill's purpose.
 | [bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) | Skills for drafting, scheduling, cross-posting and measuring social posts on 15 platforms through the BulkPublish MCP server |
 | [takeout-coupon](https://github.com/moooai/takeout-coupon) | Fetch live Meituan / Ele.me / JD food-delivery promo codes (口令) plus QR claim pages from a public no-auth API |
 | [AltoRank](https://github.com/AltoRank/altorank/tree/main/plugins/altorank/skills/altorank) | Skill + hosted MCP for SEO readiness audits, Search Console, keyword research and drafts into a review queue |
+| [SPECTER](https://github.com/YannisKiefer/harvey-specter) | Negotiation preparation and difficult-conversation drafts using established facts and relationship-aware tone |
 
 ### AI Agents & LLM Development
 
