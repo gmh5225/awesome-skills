@@ -370,6 +370,7 @@ Detailed description of the skill's purpose.
 | [materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills) | Computational materials science skills |
 | [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) | Family history and genealogy research |
 | [research-agent-skills](https://github.com/KalarisLabs/research-agent-skills) | 280+ skills for the full academic research lifecycle: literature and PRISMA reviews, hypotheses, experimental design, analysis in biology, chemistry, medicine, physics and ML, paper writing, citation verification and peer review |
+| [jp-essay-scientific](https://github.com/lucasbabur/jp-essay/tree/main/scientific) | Research, draft, revise and fact-check cited academic essays in Claude Code, with in-text citations, references and inspectable intermediate Markdown files; requires the full jp-essay installation and uv |
 
 ### Health & Life Sciences
 
