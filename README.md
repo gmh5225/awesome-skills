@@ -254,6 +254,9 @@ Detailed description of the skill's purpose.
 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
 | [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | Chinese consumer coupon suite: takeout, ride-hailing/hotels, movie tickets and parcel shipping via one public API |
 | [KuudoAI/skills](https://github.com/KuudoAI/skills) | **22 Amazon seller and advertiser skills**: Sponsored Products/Brands audits, search-term mining, budget pacing, DSP and AMC, listings, product images, repricing, FBA inbound, profitability; built for Kuudo's hosted Amazon Ads and SP-API MCP servers, writes previewed for approval; PolyForm Shield 1.0.0 (source-available) |
+| [nickmerich/run-club-skills](https://github.com/nickmerich/run-club-skills) | **13 run club operations skills**: weekly ritual, newcomer welcome, buddy system, drifter saves, bring-a-friend, attendance scorecard from a check-in CSV; built by GRYT Run Club |
+| [nickmerich/artist-led-events-skills](https://github.com/nickmerich/artist-led-events-skills) | **13 event production skills**: artist fit and deal terms, budget and P&L, sponsor inventory and pricing, permits and risk, run of show, recap; seven sport formats |
+| [nickmerich/music-tech-growth-skills](https://github.com/nickmerich/music-tech-growth-skills) | **13 music tech growth skills**: creator research, first-output activation, creator partner programs, launch, pricing and promotions, attribution and measurement |
 
 ### Document Processing
 
