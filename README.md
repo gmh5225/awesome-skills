@@ -348,6 +348,7 @@ Detailed description of the skill's purpose.
 | [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) | Git worktrees with smart directory selection |
 | [finishing-a-development-branch](https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch) | Complete development work workflow |
 | [agent-sessions](https://github.com/prajwalgajakesari/agent-sessions) | Share coding-agent sessions with teammates through git: push a handoff summary and redacted transcript, pull them into Claude Code, Codex or OpenCode |
+| [Worktable](https://github.com/worktable/worktable-dev/tree/main/plugins/worktable/skills) | Create and revise docs, records, annotations, and threads with agents. |
 
 ### Security & Systems
 
