@@ -478,6 +478,7 @@ Detailed description of the skill's purpose.
 | [placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall) | Real outbound phone calls to US businesses (bookings, appointments, quotes) through IVR menus and holds, with the outcome and transcript returned, via the PlaceCall API or hosted MCP |
 | [folio-wiki](https://github.com/evergreen-it-dev/folio/tree/main/skills/folio-wiki) | Search, read and carefully update a self-hosted team wiki (pages, data tables, whiteboards) through the Folio MCP server |
 | [cooper-email](https://github.com/cooper-email/cooper-email/tree/main/skills/cooper-email) | Own email inbox for an agent via the Cooper Email API or hosted MCP: send, receive, reply, wait for replies and verification codes |
+| [imagera-media](https://github.com/alexadams6ix/imagera-skills/tree/main/skills/imagera-media) | Images, video clips, voiceovers and music via the hosted Imagera MCP, with a credit quote before each paid call; the repo has more skills for product photos, ads and reels |
 
 
 ### Web Performance & SEO
