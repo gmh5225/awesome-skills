@@ -254,6 +254,8 @@ Detailed description of the skill's purpose.
 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
 | [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | Chinese consumer coupon suite: takeout, ride-hailing/hotels, movie tickets and parcel shipping via one public API |
 | [KuudoAI/skills](https://github.com/KuudoAI/skills) | **22 Amazon seller and advertiser skills**: Sponsored Products/Brands audits, search-term mining, budget pacing, DSP and AMC, listings, product images, repricing, FBA inbound, profitability; built for Kuudo's hosted Amazon Ads and SP-API MCP servers, writes previewed for approval; PolyForm Shield 1.0.0 (source-available) |
+| [Hyde-and-Larkin/product-marketing-toolkit](https://github.com/Hyde-and-Larkin/product-marketing-toolkit) | **8 product marketing skills** (CC BY 4.0): positioning review, claims audit, competitive intel, launch readiness, sales enablement, messaging, battlecards, discovery |
+| [Hyde-and-Larkin/product-marketing-interview-kit](https://github.com/Hyde-and-Larkin/product-marketing-interview-kit) | **8 interview prep skills** (CC BY 4.0) for product marketing roles: role decoder, company brief, story bank, round prep, mock interview, offer review |
 
 ### Document Processing
 
