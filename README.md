@@ -511,6 +511,7 @@ Detailed description of the skill's purpose.
 | [3d-web-experience](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/3d-web-experience) | Three.js, React Three Fiber, WebGL |
 | [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/interactive-portfolio) | Developer/designer portfolios |
 | [VishiATChoudhary/reels](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Spec-driven 9:16 story reels on Remotion, cut to the song's drop; powers [@hey_synapse](https://www.instagram.com/hey_synapse/) |
+| [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) | Tailor a resume to a job description from confirmed facts only: interviews the candidate first, blocks invented metrics and verb inflation, rehearses interview follow-ups (MIT) |
 
 ### Notion Skills
 
