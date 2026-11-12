@@ -437,6 +437,7 @@ Detailed description of the skill's purpose.
 | [bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) | Skills for drafting, scheduling, cross-posting and measuring social posts on 15 platforms through the BulkPublish MCP server |
 | [takeout-coupon](https://github.com/moooai/takeout-coupon) | Fetch live Meituan / Ele.me / JD food-delivery promo codes (口令) plus QR claim pages from a public no-auth API |
 | [AltoRank](https://github.com/AltoRank/altorank/tree/main/plugins/altorank/skills/altorank) | Skill + hosted MCP for SEO readiness audits, Search Console, keyword research and drafts into a review queue |
+| [wavegrain](https://github.com/wavegrain/wavegrain-mcp/tree/main/skills/wavegrain) | Skill + hosted MCP for curated slideshows and carousels for your brand on autopilot: TikTok slideshows and Instagram carousels in the brand's voice, scheduled and posted for you |
 
 ### AI Agents & LLM Development
 
