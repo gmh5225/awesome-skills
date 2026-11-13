@@ -335,6 +335,7 @@ Detailed description of the skill's purpose.
 | [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
 | [FlowHunt Skill](https://github.com/heyneuron/flowhunt-skill) | Automation discovery audit: 5-question workflow intake + Gmail/Calendar/Slack analysis to identify automation opportunities |
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Telegram messaging, chats and contacts from a personal account via the tlgr CLI, with JSON output |
+| [rinho-skills](https://github.com/fernandorvs/rinho-skills) | Official skills for Rinho GPS trackers: configure, troubleshoot and load geofences with the official validator |
 
 ### Collaboration & Project Management
 
