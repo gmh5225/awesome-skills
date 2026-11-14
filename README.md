@@ -546,6 +546,7 @@ Detailed description of the skill's purpose.
 - [TokRepo](https://tokrepo.com) - Curated registry of 600+ agent skills and MCP servers; cross-platform, community-ranked; covers skills, MCP, prompts, scripts, workflows, and configs
 - [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators; covers YouTube scripting, sponsorship analysis, content repurposing, and audience growth
 - [RemoteOpenClaw](https://remoteopenclaw.com) - Directory of AI agent skills, plugins, and MCP servers for Claude Code, OpenClaw, Hermes, and Codex
+- [HOL Plugins](https://hol.org/plugins) - Directory of plugins, skills, and MCP servers for AI coding tools like Claude Code, Codex, and Cursor
 
 
 ## Supporting Tools
