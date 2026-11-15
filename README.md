@@ -298,6 +298,7 @@ Detailed description of the skill's purpose.
 | [supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov) | Measure line, branch and MC/DC coverage of the existing tests and write tests for the untested code. Coverage runs locally; the optional quality check sends source to TypeSafe when TYPESAFE_API_KEY is set |
 | [deed-page](https://github.com/f-o-x11/deed-page-skill/tree/main/skills/deed-page) | Publish an HTML file or static folder to a permanent public deed.page URL with one curl request; no account, and the first publish returns a token for updates and deletes |
 | [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor/tree/main/skill) | Diagnoses why a scheduled or unattended agent run (Claude Code under cron, launchd, systemd) stopped or skipped silently: 30 read-only checks on the scheduler state and logs, plus a missed-run alarm |
+| [bajar-subtitulos-esp](https://github.com/subtitulos-castellano/bajar-subtitulos-esp) | Finds Spain Spanish (castellano) subtitles for movies and TV shows: reads embedded MKV/MP4 tracks first, then searches subtitle providers and verifies the dialect by reading the text |
 
 
 
