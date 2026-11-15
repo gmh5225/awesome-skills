@@ -335,7 +335,7 @@ Detailed description of the skill's purpose.
 | [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) | Chat with NotebookLM for source-grounded answers |
 | [FlowHunt Skill](https://github.com/heyneuron/flowhunt-skill) | Automation discovery audit: 5-question workflow intake + Gmail/Calendar/Slack analysis to identify automation opportunities |
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Telegram messaging, chats and contacts from a personal account via the tlgr CLI, with JSON output |
-| [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | YouTube transcripts in any caption language with timestamps and translation, YouTube search, channel and playlist browsing through the GetYouTubeTranscript API (API key required, 100 free credits on sign-up) |
+| [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | YouTube transcripts in a video's available caption languages with optional timestamps, YouTube search, and channel and playlist browsing through the GetYouTubeTranscript API (API key required, 100 free credits on sign-up) |
 
 ### Collaboration & Project Management
 
