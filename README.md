@@ -254,6 +254,7 @@ Detailed description of the skill's purpose.
 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
 | [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | Chinese consumer coupon suite: takeout, ride-hailing/hotels, movie tickets and parcel shipping via one public API |
 | [KuudoAI/skills](https://github.com/KuudoAI/skills) | **22 Amazon seller and advertiser skills**: Sponsored Products/Brands audits, search-term mining, budget pacing, DSP and AMC, listings, product images, repricing, FBA inbound, profitability; built for Kuudo's hosted Amazon Ads and SP-API MCP servers, writes previewed for approval; PolyForm Shield 1.0.0 (source-available) |
+| [moonetix/revenue-skills](https://github.com/moonetix/revenue-skills) | **11 skills for code that handles money** (MIT): an audit of payment, credit and payout paths with a proof for every finding, and builders for ledgers, payment webhooks, refunds, subscriptions, AI usage credits, payouts and referrals |
 
 ### Document Processing
 
