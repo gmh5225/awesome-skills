@@ -511,6 +511,7 @@ Detailed description of the skill's purpose.
 | [3d-web-experience](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/3d-web-experience) | Three.js, React Three Fiber, WebGL |
 | [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/interactive-portfolio) | Developer/designer portfolios |
 | [VishiATChoudhary/reels](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Spec-driven 9:16 story reels on Remotion, cut to the song's drop; powers [@hey_synapse](https://www.instagram.com/hey_synapse/) |
+| [i-smiling-buddha/ppt-animation-skill](https://github.com/i-smiling-buddha/ppt-animation-skill) | Topic to Kurzgesagt-style animated explainer video: script, offline Hindi/English voiceover (Kokoro), animated SVG scenes, Playwright + FFmpeg render to 1080p MP4 (16:9 / 9:16); no paid APIs |
 
 ### Notion Skills
 
