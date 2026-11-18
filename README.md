@@ -511,6 +511,7 @@ Detailed description of the skill's purpose.
 | [3d-web-experience](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/3d-web-experience) | Three.js, React Three Fiber, WebGL |
 | [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/interactive-portfolio) | Developer/designer portfolios |
 | [VishiATChoudhary/reels](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Spec-driven 9:16 story reels on Remotion, cut to the song's drop; powers [@hey_synapse](https://www.instagram.com/hey_synapse/) |
+| [i-smiling-buddha/countdown-video-skill](https://github.com/i-smiling-buddha/countdown-video-skill) | Top-N countdown and year-by-year "evolution" videos from a researched `items.json`: animated rank/year cards, money stats and ratings, optional trailer clips, generated music + SFX, YouTube chapters; Playwright + FFmpeg 1080p MP4 |
 
 ### Notion Skills
 
