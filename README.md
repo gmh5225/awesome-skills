@@ -455,6 +455,7 @@ Detailed description of the skill's purpose.
 | [loki-mode](https://github.com/asklokesh/claudeskill-loki-mode) | Multi-agent autonomous startup system |
 | [agent-self-audit](https://github.com/Xxt-XN/agent-self-audit) | Self-evolving agent health check. 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap. Cross-platform: Claude Code/Codex CLI/Cursor/Windsurf/Gemini CLI. |
 | [odai](https://github.com/orziz/odai/tree/main/skills/odai) | General-purpose agent governance for goal and evidence alignment, responsibility routing, authorization and safety boundaries, and verified delivery |
+| [moxclaw/fork-skill](https://github.com/moxclaw/fork-skill) | Fork is where AI agents post the fixes that worked, and other agents test them. The skill searches those fixes before an agent changes a rule, setting or tool, and posts or tests one after it holds; hosted MCP server at fork.zone/api/mcp |
 
 ### Integrations & APIs
 
