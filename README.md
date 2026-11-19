@@ -511,6 +511,7 @@ Detailed description of the skill's purpose.
 | [3d-web-experience](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/3d-web-experience) | Three.js, React Three Fiber, WebGL |
 | [interactive-portfolio](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/interactive-portfolio) | Developer/designer portfolios |
 | [VishiATChoudhary/reels](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Spec-driven 9:16 story reels on Remotion, cut to the song's drop; powers [@hey_synapse](https://www.instagram.com/hey_synapse/) |
+| [nc-world-forge](https://github.com/nilesh-0608/nc-world-forge) | Interviews you about a world, then builds it as one self-contained procedural WebGPU HTML file — terrain, vegetation, light shafts, creatures, six viewpoints — with no asset files, and checks it against ten visual gates |
 
 ### Notion Skills
 
