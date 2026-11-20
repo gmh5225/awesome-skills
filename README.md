@@ -315,6 +315,7 @@ Detailed description of the skill's purpose.
 | [datacircle](https://github.com/waynehamadi/datacircle/tree/main/skills/datacircle) | Datacircle lists all the GTM APIs. Download every GTM API plan on Datacircle as one file, with a skill that tells your AI how to query it: [datacircle.dev/SKILL.md](https://datacircle.dev/SKILL.md). |
 | [looot](https://github.com/loootai/looot-skills) | 20 data-job skills for the looot remote MCP server: work email, phone, company enrichment, Google SERP and web page reading from one API key and prepaid balance; paid per call |
 | [invokely-statistics](https://github.com/estevecastells/awesome-copilot/tree/9d96d33228f753cf26d7da5115598da2c19ad900/skills/invokely-statistics) | Query official statistics through Invokely's hosted MCP service, with periods, units, source citations, and comparability notes |
+| [questionpunk/research-skills](https://github.com/questionpunk/research-skills) | 22 skills for questionnaire design, sample sizing and survey analysis, including Van Westendorp pricing, MaxDiff, NPS and crosstabs, with tested Python scripts for the calculations |
 
 
 ### Integration & Automation
