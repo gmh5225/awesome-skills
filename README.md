@@ -360,6 +360,7 @@ Detailed description of the skill's purpose.
 | [defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth) | Multi-layered testing and security best practices |
 | [varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) | Secure environment variable management |
 | [revision-de-codigo](https://github.com/jhodz456/revision-de-codigo) | Strict code audit for TypeScript/Next.js/Supabase changes: secrets, injection, RLS rules, accessibility; Spanish report with a fix per finding and a verdict |
+| [How Could I Be Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked) | Adapts security checks from open-source reviews to PR diffs and records local results and coverage gaps |
 
 ### Scientific & Research
 
