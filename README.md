@@ -277,6 +277,7 @@ Detailed description of the skill's purpose.
 | [rhost](https://github.com/starfield17/rhost/tree/main/skills/rhost) | Runs ordinary commands on SSH-reachable Linux hosts with local-like process semantics using the rhost CLI |
 | [iOS Simulator](https://github.com/conorluddy/ios-simulator-skill) | Interact with iOS Simulator for testing |
 | [App Store Preflight](https://github.com/truongduy2611/app-store-preflight-skills) | Pre-submission checks for iOS/macOS App Store: scans Xcode project, code, and metadata against 100+ guideline index and app-type checklists; integrates with **asc** CLI; rules for metadata, subscriptions/IAP, privacy (e.g. PrivacyInfo.xcprivacy), design, entitlements; autofix + validate workflow |
+| [sharpen-prompt](https://github.com/melthond/sharpen/tree/main/skills/sharpen-prompt) | Rewrite a rough prompt into a specific one using the conversation, codebase and installed tools, and return it without running it |
 | [Swift Concurrency Migration](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) | Swift Concurrency Migration guide |
 | [Obsidian Plugin](https://github.com/gapmiss/obsidian-plugin-skill) | Obsidian.md plugin development |
 | [FFUF Web Fuzzing](https://github.com/jthack/ffuf_claude_skill) | Web fuzzer integration for vulnerability analysis |
