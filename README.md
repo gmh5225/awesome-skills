@@ -254,6 +254,7 @@ Detailed description of the skill's purpose.
 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
 | [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | Chinese consumer coupon suite: takeout, ride-hailing/hotels, movie tickets and parcel shipping via one public API |
 | [KuudoAI/skills](https://github.com/KuudoAI/skills) | **22 Amazon seller and advertiser skills**: Sponsored Products/Brands audits, search-term mining, budget pacing, DSP and AMC, listings, product images, repricing, FBA inbound, profitability; built for Kuudo's hosted Amazon Ads and SP-API MCP servers, writes previewed for approval; PolyForm Shield 1.0.0 (source-available) |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | **HyperFrames by HeyGen**: open-source AI video editor skills; make launch videos, explainers, motion graphics and captions on your own footage with Claude Code, Codex, Cursor or Gemini CLI; remake any video, port Remotion projects; 88K+ stars, 50M+ videos rendered, about 450 ready-made blocks; HTML/CSS/GSAP rendered to MP4 |
 
 ### Document Processing
 
