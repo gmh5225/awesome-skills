@@ -315,6 +315,7 @@ Detailed description of the skill's purpose.
 | [datacircle](https://github.com/waynehamadi/datacircle/tree/main/skills/datacircle) | Datacircle lists all the GTM APIs. Download every GTM API plan on Datacircle as one file, with a skill that tells your AI how to query it: [datacircle.dev/SKILL.md](https://datacircle.dev/SKILL.md). |
 | [looot](https://github.com/loootai/looot-skills) | 20 data-job skills for the looot remote MCP server: work email, phone, company enrichment, Google SERP and web page reading from one API key and prepaid balance; paid per call |
 | [invokely-statistics](https://github.com/estevecastells/awesome-copilot/tree/9d96d33228f753cf26d7da5115598da2c19ad900/skills/invokely-statistics) | Query official statistics through Invokely's hosted MCP service, with periods, units, source citations, and comparability notes |
+| [owner-statement-agent](https://github.com/Sokage-AI/owner-statement-agent) | Reads a property management month-end export and drafts a plain-language owner update, stopping when the stated totals do not tie out. |
 
 
 ### Integration & Automation
