@@ -254,6 +254,7 @@ Detailed description of the skill's purpose.
 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router |
 | [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) | Chinese consumer coupon suite: takeout, ride-hailing/hotels, movie tickets and parcel shipping via one public API |
 | [KuudoAI/skills](https://github.com/KuudoAI/skills) | **22 Amazon seller and advertiser skills**: Sponsored Products/Brands audits, search-term mining, budget pacing, DSP and AMC, listings, product images, repricing, FBA inbound, profitability; built for Kuudo's hosted Amazon Ads and SP-API MCP servers, writes previewed for approval; PolyForm Shield 1.0.0 (source-available) |
+| [ASOScan/aso-skills](https://github.com/ASOScan/aso-skills) | **9 skills (MIT) for ASOScan**, a complete App Store Optimization platform for the App Store and Google Play that also runs in a web dashboard and ChatGPT: keyword research and opportunities, daily ranks, competitor keywords, metadata audit, review insights, with a router; data skills use the ASOScan API |
 
 ### Document Processing
 
