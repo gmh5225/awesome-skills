@@ -283,6 +283,7 @@ Detailed description of the skill's purpose.
 | [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) | Move language code quality checklist |
 | [AINDF screen author](https://github.com/0design/ai-native-design-framework/tree/main/plugin/skills/aindf-screen-author) | Compose and validate ScreenSpec JSON through a compatible AINDF design-system MCP. [Website](https://oleg.design/ai-native-design-framework) |
 | [UNSLOP audit](https://github.com/0design/unslop-skill/tree/main/skills/audit) | Audit generated UI against design-system contracts and pinned rules; write fix plans. Full canon-based audits require the plugin setup. [Website](https://oleg.design/unslop) |
+| [PreviewShip Skills](https://github.com/blockdancez/PreviewShip/tree/main/skills) | Export Claude Code and Codex conversations into standalone HTML pages and deploy HTML, Markdown, PDF, or static build output to fixed shareable [PreviewShip](https://previewship.com/guides/share-claude-html-artifacts) preview URLs |
 | [overhaul-ui](https://github.com/ShadowFull12/overhaul-ui) | Frontend design skill — 28 commands, WCAG 2.2/OKLCH/motion scripts, detects and defers to installed specialist design skills |
 | [pypict-claude-skill](https://github.com/omkamal/pypict-claude-skill) | Pairwise Independent Combinatorial Testing |
 | [claude-starter](https://github.com/raintree-technology/claude-starter) | Production-ready Claude Code configuration template |
